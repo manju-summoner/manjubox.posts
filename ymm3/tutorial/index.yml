@@ -1,0 +1,7 @@
+
+- key: /ymm3/tutorial/
+  index:
+  - page: install
+  - page: charasozai
+  - page: editing
+  - page: output
