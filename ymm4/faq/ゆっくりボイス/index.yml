@@ -2,3 +2,4 @@
 - key: /ymm4/faq/ゆっくりボイス/
   index:
   - page: ゆっくりボイスの生成に時間がかかる
+  - page: SAPI5の声質を追加する
