@@ -3,4 +3,6 @@
   index:
   - page: ゆっくりmoviemaker4が起動しない
   - page: 「windowsによってpcが保護されました」と表示される
+  - page: セキュリティソフトに誤検知される
+  - page: exeファイルが消える
   - page: アンインストール（削除）したい
