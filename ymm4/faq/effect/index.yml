@@ -2,5 +2,6 @@
 - key: /ymm4/faq/effect/
   index:
   - page: エフェクトを適用する
+  - page: 画面の一部分にエフェクトを適用する
   - page: 2769-2
   - page: blur_on_effect_item
