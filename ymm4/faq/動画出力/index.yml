@@ -1,5 +1,8 @@
 
 - key: /ymm4/faq/動画出力/
   index:
+  - page: 動画を出力する
+  - page: AviUtl経由で動画を出力する
   - page: 音量が小さくなる
   - page: 音声にノイズが混じる
+  - page: 動画の出力に失敗する
