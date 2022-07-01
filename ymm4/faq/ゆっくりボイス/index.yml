@@ -11,8 +11,12 @@
   - page: AIVOICE
   - page: AIVOICEの音声が表示されない
   - page: CeVIOを使用する
+  - page: CoeAvatar
   - page: CoeFontを利用する
   - page: COEIROINK
   - page: VOICEVOXを使用する
+  - page: AmazonPolly
+  - page: GoogleCloudTTS
+  - page: MicrosoftAzureTTS
   - page: SAPI5の声質を追加する
   - page: 外部の音声合成エンジンで作成した音声ファイルを使用したい
