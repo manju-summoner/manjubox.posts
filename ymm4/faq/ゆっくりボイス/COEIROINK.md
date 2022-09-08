@@ -27,6 +27,12 @@ VOICEVOXのUIを利用して作成されています。
 1. キャラクターを選択後、*ここにセリフを入力*欄にセリフを入力し、*追加*ボタンをクリックする
 ![スクリーンショット](COEIROINK_4200.png)
 
+## MYCOEIROINKを利用してユーザー音声を利用する
+ユーザー音声ライブラリを作成したり、配布されている音声ライブラリをCOEIROINKに追加することが出来ます。
+- [MYCOEIROINK](https://coeiroink.com/mycoeiroink)
+
 ## 利用条件等
 - [共通利用規約](https://coeiroink.com/terms)
 - [キャラクター別利用規約](https://coeiroink.com/character/list)
+- [Q&A](https://coeiroink.com/q_and_a)
+- [MYCOEIROINK](https://coeiroink.com/mycoeiroink)
