@@ -35,8 +35,28 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 アプリ内のフィードバックボタン または [お問い合わせページ](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md) からご報告をお願いします。
 
 ## 外部アプリケーション
-YMM4で利用可能な外部アプリの一覧です。（[掲載依頼はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)）
+YMM4と連携して利用可能な外部アプリの一覧です。
 - 利用方法や不具合に関しては各アプリの開発者へお問い合わせください。
+- [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
+
+### KuchiPaku
+![スクリーンショット](index_4407.png)
+[いぬいぬGames](https://twitter.com/InuInuGames)さんによって開発されている、.labファイルを元にあいうえお口パクを作成するツールです。
+- [KuchiPaku](https://github.com/InuInu2022/KuchiPaku)
+- [ダウンロードページ](https://github.com/InuInu2022/KuchiPaku/releases)
+
+### f2ft
+![スクリーンショット](index_5138.png)
+[うにくま](https://twitter.com/unikuma_sub)さんによって開発されている、YMM4から出力されるexoファイルの縁取りエフェクトをAviUtlスクリプトの縁取りTに置換するプログラムです。  
+- [f2ft](https://github.com/unikuma/f2ft)
+- [ダウンロードページ](https://github.com/unikuma/f2ft/releases)
+
+### LMROID
+![スクリーンショット](index_1900.png)
+LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
+VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
+※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84)をご確認ください。
+- [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
 
 ### CoeAvatar
 ![スクリーンショット](index_2033.png)
@@ -54,15 +74,14 @@ YMM4で利用可能な外部アプリの一覧です。（[掲載依頼はこち
 
 ### A.I.VOICE
 ![スクリーンショット](index_2922.png)
-A.I.VOICE™は、音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
+A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でA.I.VOICEを使用する](./faq/ゆっくりボイス/AIVOICE.md)
 
 ### COEIROINK
 ![スクリーンショット](index_0843.png)
-COEIROINKは、シロワニさんが開発・公開しているフリーの音声合成ソフトです。  
-VOICEVOXのUIを利用して作成されています。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。  
+[シロワニさん](https://twitter.com/shirowanisan)によって開発されているフリーの音声合成ソフトです。  
+VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
 ※細かい利用規約は[COEIROINK公式サイト](https://coeiroink.com/terms)をご確認ください。
 - [ゆっくりMovieMaker4でCOEIROINKを使用する](./faq/ゆっくりボイス/COEIROINK.md)
 
@@ -78,7 +97,7 @@ VOICEVOXのUIを利用して作成されています。
 
 ### VOICEVOX
 ![スクリーンショット](index_0545.png)
-商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
+[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。  
 ※細かい利用規約は[VOICEVOX公式サイト](https://voicevox.hiroshiba.jp/)をご確認ください。
 - [ゆっくりMovieMaker4でVOICEVOXを使用する](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
@@ -91,7 +110,7 @@ VOICEVOXのUIを利用して作成されています。
 
 ### 唄詠
 ![スクリーンショット](index_3228.png)
-UTAU音源を使用したテキスト音声合成ソフトウェアです。  
+[SHINTA](https://twitter.com/shinta0806)さんによって開発されている、UTAU音源を使用したテキスト音声合成ソフトウェアです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [唄詠 | 翔星ワールド](http://shinta.coresv.com/software/utayomi_jpn/)
 
@@ -127,6 +146,7 @@ UTAU音源を使用したテキスト音声合成ソフトウェアです。
   - [CoeAvatar](./faq/ゆっくりボイス/CoeAvatar.md)
   - [CoeFont](./faq/ゆっくりボイス/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [COEIROINK](./faq/ゆっくりボイス/COEIROINK.md)
+  - [LMROID](./faq/ゆっくりボイス/LMROID.md)
   - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [唄詠](http://shinta.coresv.com/software/utayomi_jpn/)
   - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
@@ -179,13 +199,19 @@ https://coefont.cloud/
 
 ### COEIROINK 外部連携API
 Copyright (c) 2021 shirowanisan  
-利用には別途 COEIROINK のインストールが必要です。  
+利用には別途COEIROINKのインストールが必要です。  
 利用条件等に関してはCOEIROINKアプリ内のヘルプをご確認ください。  
 https://coeiroink.com/
 
+### LMROID 外部連携API
+Copyright (c) 2022 nohoshio
+利用には別途LMROIDのインストールが必要です。
+利用条件等に関してLMROIDアプリ内のヘルプをご確認ください
+https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+
 ### VOICEVOX 外部連携API
 Copyright (c) 2021 Hiroshiba Kazuyuki  
-利用には別途 VOICEVOX のインストールが必要です。  
+利用には別途VOICEVOXのインストールが必要です。  
 利用条件等に関してはVOICEVOXアプリ内のヘルプをご確認ください。  
 https://voicevox.hiroshiba.jp/
 
