@@ -49,3 +49,4 @@ tags: [YMM4]
 VOICEVOXの利用規約と、音声ライブラリに定められている利用規約に従う必要があります。
 - [ソフトウェア利用規約](https://voicevox.hiroshiba.jp/term)
 - [音声ライブラリ利用規約](https://voicevox.hiroshiba.jp/#characters)
+- [Q&A](https://voicevox.hiroshiba.jp/qa)
