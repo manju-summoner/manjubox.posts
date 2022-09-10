@@ -39,6 +39,13 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 - 利用方法や不具合に関しては各アプリの開発者へお問い合わせください。
 - [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
 
+### SHAREVOX
+![スクリーンショット](index_2343.png)
+[Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。
+VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
+※細かい利用規約は[SHAREVOX公式サイト](https://www.sharevox.app/)をご確認ください。
+- [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
+
 ### KuchiPaku
 ![スクリーンショット](index_4407.png)
 [いぬいぬGames](https://twitter.com/InuInuGames)さんによって開発されている、.labファイルを元にあいうえお口パクを作成するツールです。
@@ -147,6 +154,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
   - [CoeFont](./faq/ゆっくりボイス/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [COEIROINK](./faq/ゆっくりボイス/COEIROINK.md)
   - [LMROID](./faq/ゆっくりボイス/LMROID.md)
+  - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
   - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [唄詠](http://shinta.coresv.com/software/utayomi_jpn/)
   - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
@@ -188,12 +196,12 @@ http://cevio.jp/
 http://cevio.jp/commercial/
 
 ### CoeAvatar 外部連携API
-Copyright (c) 2022 Coestation Inc.
+Copyright (c) 2022 Coestation Inc.  
 https://coeavatar.com/
 
 ### CoeFont 外部連携API
 Copyright (c) 2021 CoeFont Co.,Ltd.All Rights Reserved.  
-動画を公開する際は、「Voiced by https://CoeFont.cloud」というライセンス表記が必要です。  
+動画を公開する際は、「Voiced by [https://CoeFont.cloud](https://CoeFont.cloud)」というライセンス表記が必要です。  
 差別目的、誹謗中傷目的、公序良俗に反する目的での利用は禁じられています。  
 https://coefont.cloud/
 
@@ -204,10 +212,16 @@ Copyright (c) 2021 shirowanisan
 https://coeiroink.com/
 
 ### LMROID 外部連携API
-Copyright (c) 2022 nohoshio
-利用には別途LMROIDのインストールが必要です。
-利用条件等に関してLMROIDアプリ内のヘルプをご確認ください
+Copyright (c) 2022 nohoshio  
+利用には別途LMROIDのインストールが必要です。  
+利用条件等に関してLMROIDアプリ内のヘルプをご確認ください  
 https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+
+### SHAREVOX 外部連携API
+Copyright (c) 2022 y-chan  
+利用には別途SHAREVOXのインストールが必要です。  
+利用条件等に関してSHAREVOXアプリ内のヘルプをご確認ください  
+https://www.sharevox.app/
 
 ### VOICEVOX 外部連携API
 Copyright (c) 2021 Hiroshiba Kazuyuki  
@@ -220,7 +234,7 @@ Copyright (c) .NET Foundation and Contributors
 https://github.com/dotnet/runtime
 
 ### AWSSDK.Polly / Apache 2.0
-© 2022, Amazon Web Services, Inc. or its affiliates.All rights reserved.
+© 2022, Amazon Web Services, Inc. or its affiliates.All rights reserved.  
 https://github.com/aws/aws-sdk-net/
 
 ### CsvHelper / MS-PL
