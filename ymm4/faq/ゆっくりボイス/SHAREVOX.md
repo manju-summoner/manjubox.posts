@@ -3,7 +3,7 @@ title: SHAREVOXの音声を利用する
 date: 2022-09-10
 tags: [YMM4]
 ---
-## LMROIDとは
+## SHAREVOXとは
 ![スクリーンショット](SHAREVOX_2656.png)
 [SHAREVOX](https://www.sharevox.app/)は[Yちゃん](https://twitter.com/y_chan_dev)が個人で開発されているフリーの音声合成ソフトです。  
 VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
