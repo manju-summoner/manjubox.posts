@@ -62,7 +62,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 ![スクリーンショット](index_1900.png)
 LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
 VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84)をご確認ください。
+※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/terms)をご確認ください。
 - [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
 
 ### CoeAvatar
