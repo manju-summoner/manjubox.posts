@@ -46,3 +46,7 @@ tags: [YMM4]
 ![スクリーンショット](CoeAvatar_4747.png)
 1. *Enter*キーを押して入力を確定させる
 1. 設定が完了すると、キャラクター設定ウィンドウの声質欄に音声が表示されます。
+
+## 利用条件等
+- [商用利用に関する注意表](https://coeavatar.com/assets/pdf/commercial_use.pdf)
+- [FAQ](https://coeavatar.com/faq/)
