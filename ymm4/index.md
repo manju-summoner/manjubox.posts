@@ -130,7 +130,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 - [過去掲載していた開発終了済みの外部ツールはこちら](#謝辞)
 
 ## 動作環境
-- Windows10, Windows 11
+- Windows 10, Windows 11
 - .NET Framework 4.7.2 以上
 - DirectX 11 / Shader Model 5.0 対応GPU
   - [※ DirectX10世代のGPUでは一部のエフェクトが機能しません](./faq/effect/2769-2.md)
