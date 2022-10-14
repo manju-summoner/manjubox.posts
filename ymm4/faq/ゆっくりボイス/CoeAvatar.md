@@ -8,6 +8,12 @@ tags: [YMM4]
 
 - [CoeAvatar](https://coeavatar.com/)
 
+<Flex>
+    <AmazonCard item="B0B1SH3Y34"/>
+    <AmazonCard item="B0B4CY1TX7"/>
+    <AmazonCard item="B0B6NRF1XJ"/>
+</Flex>
+
 ## CoeAvatarの利用方法
 1. [CoeAvatar](https://coeavatar.com/)のキャラクターを購入し、coestationに登録する
 1. [コエステーションエディター](https://editor.coestation.jp/login)にログインする
