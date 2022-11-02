@@ -10,16 +10,20 @@ tags: [YMM4]
 ### CeVIO AI
 <Flex>
     <AmazonCard item="B09L51TBV1"/>
+    <AmazonCard item="B0BFHPGZ2M"/>    
     <AmazonCard item="B09JJGC1FG"/>
     <AmazonCard item="B09JJTV31Q"/>
-    <AmazonCard item="B08R1D2ZMP"/>
-    <AmazonCard item="B093LC7RY2"/>
+    <AmazonCard item="B09P5FM4JS"/>
+    <AmazonCard item="B0B176B4GY"/>
+    <AmazonCard item="B0BGXH5FD9"/>
+    <AmazonCard item="B09P5BBHNK"/>
     <AmazonCard item="B09MLXCRCH"/>
-    <AmazonCard item="B09MKGJHN7"/>
+    <AmazonCard item="B09QGS1W56"/>
 </Flex>
 
 ### CeVIO Creative Studio
 <Flex>
+    <AmazonCard item="B01N2JJ0DI"/>
     <AmazonCard item="B01MXNYBFM"/>
     <AmazonCard item="B01NB9XW1L"/>
 </Flex>
