@@ -211,6 +211,12 @@ Copyright (c) 2021 shirowanisan
 利用条件等に関してはCOEIROINKアプリ内のヘルプをご確認ください。  
 https://coeiroink.com/
 
+### ITVOICE 外部連携API
+Copyright (c) 2022 いたほび  
+利用には別途ITVOICEのインストールが必要です。  
+利用条件等に関してはITVOICEアプリ内のヘルプをご確認ください。  
+http://itvoice.starfree.jp/
+
 ### LMROID 外部連携API
 Copyright (c) 2022 nohoshio  
 利用には別途LMROIDのインストールが必要です。  
