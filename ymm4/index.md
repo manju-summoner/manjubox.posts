@@ -40,6 +40,13 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 - 利用方法や不具合に関しては各アプリの開発者へお問い合わせください。
 - [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
 
+### ITVOICE
+![スクリーンショット](index_4641.png)
+[いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。
+VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
+※細かい利用規約は[ITVOICE公式サイト](http://itvoice.starfree.jp/index.html)をご確認ください。
+- [ゆっくりMovieMaker4でITVOICEを使用する](./faq/ゆっくりボイス/ITVOICE.md)
+
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
 [Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。
