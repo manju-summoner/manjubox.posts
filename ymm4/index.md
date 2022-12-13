@@ -26,6 +26,7 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 <Download url="https://object-storage.tyo1.conoha.io/v1/nc_4fac3ef0e6d843249e0ab2f1fc3e8f85/public/YukkuriMovieMaker4_Lite.zip">ゆっくりMovieMaker4 Liteをダウンロード</Download>
 
 - [YMM4 と YMM4Lite の違い](./faq/etc/YMM4Lite.md)
+- [「Microsoft Store でアプリを検索しますか？」と表示される](./faq/startup_trouble/%E3%80%8CMicrosoftStore%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8D%E3%81%A8%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B.md)
 - [「WindowsによってPCが保護されました」と表示される場合](./faq/startup_trouble/%E3%80%8Cwindows%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6pc%E3%81%8C%E4%BF%9D%E8%AD%B7%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%8D%E3%81%A8%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B.md)
 - [UIの表示が崩れる場合](./faq/ui/ui%e3%81%8c%e6%ad%a3%e3%81%97%e3%81%8f%e8%a1%a8%e7%a4%ba%e3%81%95%e3%82%8c%e3%81%aa%e3%81%84.md)
 - [YMM4の過去のバージョンが必要な場合](./%e9%81%8e%e5%8e%bb%e3%81%ae%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3.md)
