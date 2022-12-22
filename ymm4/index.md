@@ -209,7 +209,7 @@ https://coeavatar.com/
 
 ### CoeFont 外部連携API
 Copyright (c) 2021 CoeFont Co.,Ltd.All Rights Reserved.  
-動画を公開する際は、「Voiced by [https://CoeFont.cloud](https://CoeFont.cloud)」というライセンス表記が必要です。  
+動画を公開する際は、「Voiced by [https://CoeFont.cloud](https://CoeFont.cloud)」というライセンス表記が必要です。（※Business、Enterpriseプランは除く）  
 差別目的、誹謗中傷目的、公序良俗に反する目的での利用は禁じられています。  
 https://coefont.cloud/
 
