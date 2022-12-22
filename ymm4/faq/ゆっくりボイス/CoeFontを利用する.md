@@ -67,4 +67,4 @@ CoeFontを利用して作成した動画を公開する場合、「 Voiced by ht
 ### 無償提供CoeFont同意事項
 ゆっくりMovieMaker4アプリ内でご確認ください。
 ### CoeFont利用規約
-- [CoeFont利用規約](https://coefont.cloud/termsOfUse)
+[公式ページトップ](https://coefont.cloud/)または[よくある質問](https://coefont.cloud/faq)最下部の「利用規約」リンクからご確認ください。
