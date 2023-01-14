@@ -40,6 +40,12 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 - 利用方法や不具合に関しては各アプリの開発者へお問い合わせください。
 - [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
 
+### VOICEPEAK
+![スクリーンショット](index_0617.png)
+株式会社AHSとDreamtonics株式会社によって共同開発された、音声合成ソフトです。  
+外部連携APIを使用し、YMM4から直接音声を生成できます。
+- [ゆっくりMovieMaker4でVOICEPEAKを使用する](./faq/ゆっくりボイス/VOICEPEAK.md)
+
 ### ITVOICE
 ![スクリーンショット](index_4641.png)
 [いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。
@@ -161,8 +167,10 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
   - [CoeAvatar](./faq/ゆっくりボイス/CoeAvatar.md)
   - [CoeFont](./faq/ゆっくりボイス/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [COEIROINK](./faq/ゆっくりボイス/COEIROINK.md)
+  - [ITVOICE](./faq/ゆっくりボイス/ITVOICE.md)
   - [LMROID](./faq/ゆっくりボイス/LMROID.md)
   - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
+  - [VOICEPEAK](./faq/ゆっくりボイス/VOICEPEAK.md)
   - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [唄詠](http://shinta.coresv.com/software/utayomi_jpn/)
   - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
@@ -236,6 +244,12 @@ Copyright (c) 2022 y-chan
 利用には別途SHAREVOXのインストールが必要です。  
 利用条件等に関してSHAREVOXアプリ内のヘルプをご確認ください  
 https://www.sharevox.app/
+
+### VOICEPEAK コマンドラインAPI
+Copyright (c) 2022 Dreamtonics 株式会社  
+利用には別途VOICEPEAKのインストールが必要です。  
+利用条件等に関してはVOICEPEAK公式サイトをご確認ください。  
+https://www.ah-soft.com/voice/
 
 ### VOICEVOX 外部連携API
 Copyright (c) 2021 Hiroshiba Kazuyuki  
