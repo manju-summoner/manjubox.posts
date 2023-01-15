@@ -17,6 +17,7 @@
   - page: ITVOICE
   - page: LMROID
   - page: SHAREVOX
+  - page: VOICEPEAK
   - page: VOICEVOXを使用する
   - page: AmazonPolly
   - page: GoogleCloudTTS
