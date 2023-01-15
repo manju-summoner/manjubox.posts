@@ -16,7 +16,7 @@ VOICEVOXのUIを利用して作成されています。
 1. ゆっくりMovieMaker4を起動する
 1. *ファイル(F)*→*設定*から設定ウィンドウ開く
 ![スクリーンショット](COEIROINK_3512.png)
-1. *VOICEVOX連携*→*アプリケーション一覧*から*COEIROINK*を選択する
+1. *VOICEVOX*→*アプリケーション一覧*から*COEIROINK*を選択する
 ![スクリーンショット](COEIROINK_3608.png)
 1. *実行ファイル*欄右側のフォルダボタンをクリックし、*1.*で保存したフォルダ内にある*COEIROINKonVOICEVOX.exe*を選択する
 ![スクリーンショット](COEIROINK_3817.png)

@@ -23,7 +23,7 @@ VOICEPEAKは、株式会社AHSとDreamtonics株式会社が共同開発した音
 ## 利用方法
 1. VOICEPEAKを購入し、お使いのPCにインストールする
 1. ゆっくりMovieMaker4を起動する
-1. *ファイル(F)*→*設定*→*VOICEPEAK連携*→*voicepeak.exe*から、VOICEPEAKの実行ファイルを選択する（デフォルトのProgramFilesフォルダ内にVOICEPEAKをインストールしている場合は設定は不要です）
+1. *ファイル(F)*→*設定*→*VOICEPEAK*→*voicepeak.exe*から、VOICEPEAKの実行ファイルを選択する（デフォルトのProgramFilesフォルダ内にVOICEPEAKをインストールしている場合は設定は不要です）
 ![スクリーンショット](VOICEPEAK_1923.png)
 1. *ファイル(F)*→*キャラクターの編集*からキャラクター編集ウィンドウを表示する
 ![スクリーンショット](VOICEPEAK_2017.png)

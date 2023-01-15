@@ -39,7 +39,7 @@ tags: [YMM4]
 1. ゆっくりMovieMaker4を起動する
 1. *ファイル(F)*→*設定*をクリックし、設定ウィンドウを開く
 ![スクリーンショット](CoeFontを利用する_1012.png)
-1. *CoeFont連携*→*API設定*の*Access Key*、*Client Secret*欄に*6.*で控えた内容を貼り付ける
+1. *CoeFont*→*API設定*の*Access Key*、*Client Secret*欄に*6.*で控えた内容を貼り付ける
 ![スクリーンショット](CoeFontを利用する_4508.png)
 
 ### 利用するCoeFontを設定する
