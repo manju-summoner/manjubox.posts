@@ -40,6 +40,16 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 - 利用方法や不具合に関しては各アプリの開発者へお問い合わせください。
 - [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
 
+### よみてのれゐ
+<Flex>
+    <DLsiteCard store="home" item="RJ376955"/>
+</Flex>
+
+よみてプログラムによって開発された音声合成ソフトです。  
+日本の同人活動でのみ商用利用可能なライセンスが設定されています。  
+外部連携APIを使用し、YMM4から直接音声を生成できます。
+- [ゆっくりMovieMaker4でよみてのれゐを使用する](./faq/ゆっくりボイス/YomiteProgram.md)
+
 ### VOICEPEAK
 <Flex>
   <AmazonCard item="B09TW18HS7"/>
@@ -195,6 +205,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
   - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
   - [VOICEPEAK](./faq/ゆっくりボイス/VOICEPEAK.md)
   - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
+  - [よみてのれゐ](./faq/ゆっくりボイス/YomiteProgram.md)
   - [唄詠](http://shinta.coresv.com/software/utayomi_jpn/)
   - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
   - [Amazon Polly](./faq/ゆっくりボイス/AmazonPolly.md)
@@ -279,6 +290,12 @@ Copyright (c) 2021 Hiroshiba Kazuyuki
 利用には別途VOICEVOXのインストールが必要です。  
 利用条件等に関してはVOICEVOXアプリ内のヘルプをご確認ください。  
 https://voicevox.hiroshiba.jp/
+
+### よみてのれゐ 外部連携API
+Copyright (c) 2022 Yomite Program  
+利用には別途よみてのれゐのインストールが必要です。  
+利用条件に関しては同梱のテキストファイルをご確認ください。  
+https://www.dlsite.com/home/dlaf/=/t/s/link/work/aid/manju/id/RJ376955.html
 
 ### .NET Runtime / MIT License
 Copyright (c) .NET Foundation and Contributors  
