@@ -10,14 +10,14 @@ VOICEPEAKは、株式会社AHSとDreamtonics株式会社が共同開発した音
 - [VOICEPEAK｜製品情報｜AHS(AH-Software)](https://www.ah-soft.com/voice/)
 
 > **Note**
-> VOICEPEAKのバージョンをv1.2.1以降に更新する必要があります
+> VOICEPEAKのバージョンをv1.2.1以降に更新する必要があります  
+> VOICEPEAK 6ナレーターセット v1.0.1を使用している場合、[AHSマイページ](https://www.ah-soft.com/mypage/)から最新版をダウンロードしてください。（ユーザー登録・製品登録が必要です）
 
 <Flex>
 <AmazonCard item="B09TW18HS7"/>
-<AmazonCard item="B0BLH39SZF"/>
-<AmazonCard item="B0BLGX9JM8"/>
-<AmazonCard item="B0BLGV6CGB"/>
-<AmazonCard item="B0BLH8BS3D"/>
+<AmazonCard item="B09QWVL5WS"/>
+<AmazonCard item="B0BPL2FT1L"/>
+<AmazonCard item="B0BPKYXK18"/>
 </Flex>
 
 ## 利用方法

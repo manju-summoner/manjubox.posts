@@ -41,21 +41,27 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 - [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
 
 ### VOICEPEAK
-![スクリーンショット](index_0617.png)
+<Flex>
+  <AmazonCard item="B09TW18HS7"/>
+  <AmazonCard item="B09QWVL5WS"/>
+  <AmazonCard item="B0BPL2FT1L"/>
+  <AmazonCard item="B0BPKYXK18"/>
+</Flex>
+
 株式会社AHSとDreamtonics株式会社によって共同開発された、音声合成ソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でVOICEPEAKを使用する](./faq/ゆっくりボイス/VOICEPEAK.md)
 
 ### ITVOICE
 ![スクリーンショット](index_4641.png)
-[いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。
+[いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。  
 VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
 ※細かい利用規約は[ITVOICE公式サイト](http://itvoice.starfree.jp/index.html)をご確認ください。
 - [ゆっくりMovieMaker4でITVOICEを使用する](./faq/ゆっくりボイス/ITVOICE.md)
 
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
-[Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。
+[Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
 VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
 ※細かい利用規約は[SHAREVOX公式サイト](https://www.sharevox.app/)をご確認ください。
 - [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
@@ -80,8 +86,13 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 - [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
 
 ### CoeAvatar
-![スクリーンショット](index_2033.png)
-コエステ株式会社の提供するクラウド音声合成サービスです。
+<Flex>
+    <AmazonCard item="B0B1SH3Y34"/>
+    <AmazonCard item="B0B4CY1TX7"/>
+    <AmazonCard item="B0B6NRF1XJ"/>
+</Flex>
+
+コエステ株式会社の提供するクラウド音声合成サービスです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でCoeAvatarを使用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeAvatar.md)
 
@@ -94,7 +105,13 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 - [ゆっくりMovieMaker4でCoeFontを利用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
 
 ### A.I.VOICE
-![スクリーンショット](index_2922.png)
+<Flex>
+    <AmazonCard item="B09HKF33KJ"/>
+    <AmazonCard item="B09MZ6HLLJ"/>
+    <AmazonCard item="B093WNVYLL"/>
+    <AmazonCard item="B099NLWYWP"/>
+</Flex>
+
 A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でA.I.VOICEを使用する](./faq/ゆっくりボイス/AIVOICE.md)
@@ -125,7 +142,13 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 
 
 ### CeVIO AI / CeVIO Creative Studio 7
-![スクリーンショット](index_2725.png)
+<Flex>
+    <AmazonCard item="B09L51TBV1"/>
+    <AmazonCard item="B0BFHPGZ2M"/>
+    <AmazonCard item="B09P5FM4JS"/>
+    <AmazonCard item="B0B176B4GY"/>
+</Flex>
+
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でCeVIOを使用する](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
 
