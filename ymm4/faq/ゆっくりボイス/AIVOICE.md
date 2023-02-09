@@ -13,18 +13,16 @@ A.I.VOICE™は、音声合成AITalk®5 の技術を応用した個人利用者�
 > A.I.VOICEエディタのバージョンをv1.3.0以降に更新する必要があります
 
 <Flex>
-<AmazonCard item="B093WNVYLL"/>
-<AmazonCard item="B09MZ7JQHT"/>
-<AmazonCard item="B09HKF33KJ"/>
-<AmazonCard item="B09MZ6HLLJ"/>
-
-<AmazonCard item="B09FXYJ21F"/>
-<AmazonCard item="B099NMFSXP"/>
-<AmazonCard item="B099NLWYWP"/>
-<AmazonCard item="B099NCGNWH"/>
-
-<AmazonCard item="B093WNB2KD"/>
-<AmazonCard item="B09PYZ38TM"/>
+    <DLsiteCard store="soft" item="VJ014432"/>
+    <DLsiteCard store="soft" item="VJ015678"/>
+    <DLsiteCard store="soft" item="VJ015769"/>
+    <DLsiteCard store="soft" item="VJ014433"/>
+    <DLsiteCard store="soft" item="VJ014992"/>
+    <DLsiteCard store="soft" item="VJ015180"/>
+    <DLsiteCard store="soft" item="VJ015695"/>
+    <DLsiteCard store="soft" item="VJ015696"/>
+    <DLsiteCard store="soft" item="VJ015397"/>
+    <DLsiteCard store="soft" item="VJ015590"/>
 </Flex>
 
 ## 利用方法

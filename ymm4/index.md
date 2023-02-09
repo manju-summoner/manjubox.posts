@@ -52,10 +52,10 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 
 ### VOICEPEAK
 <Flex>
-  <AmazonCard item="B09TW18HS7"/>
-  <AmazonCard item="B09QWVL5WS"/>
-  <AmazonCard item="B0BPL2FT1L"/>
-  <AmazonCard item="B0BPKYXK18"/>
+    <DLsiteCard store="soft" item="VJ015169"/>
+    <DLsiteCard store="soft" item="VJ015808"/>
+    <DLsiteCard store="soft" item="VJ015810"/>
+    <DLsiteCard store="soft" item="VJ015811"/>
 </Flex>
 
 株式会社AHSとDreamtonics株式会社によって共同開発された、音声合成ソフトです。  
@@ -97,9 +97,9 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 
 ### CoeAvatar
 <Flex>
-    <AmazonCard item="B0B1SH3Y34"/>
-    <AmazonCard item="B0B4CY1TX7"/>
-    <AmazonCard item="B0B6NRF1XJ"/>
+    <DLsiteCard store="soft" item="VJ015358"/>
+    <DLsiteCard store="soft" item="VJ015438"/>
+    <DLsiteCard store="soft" item="VJ015586"/>
 </Flex>
 
 コエステ株式会社の提供するクラウド音声合成サービスです。  
@@ -116,10 +116,11 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 
 ### A.I.VOICE
 <Flex>
-    <AmazonCard item="B09HKF33KJ"/>
-    <AmazonCard item="B09MZ6HLLJ"/>
-    <AmazonCard item="B093WNVYLL"/>
-    <AmazonCard item="B099NLWYWP"/>
+    <DLsiteCard store="soft" item="VJ014432"/>
+    <DLsiteCard store="soft" item="VJ015678"/>
+    <DLsiteCard store="soft" item="VJ015769"/>
+    <DLsiteCard store="soft" item="VJ014433"/>
+    <DLsiteCard store="soft" item="VJ014992"/>
 </Flex>
 
 A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
@@ -153,10 +154,11 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 
 ### CeVIO AI / CeVIO Creative Studio 7
 <Flex>
-    <AmazonCard item="B09L51TBV1"/>
-    <AmazonCard item="B0BFHPGZ2M"/>
-    <AmazonCard item="B09P5FM4JS"/>
-    <AmazonCard item="B0B176B4GY"/>
+    <DLsiteCard store="soft" item="VJ014645"/>
+    <DLsiteCard store="soft" item="VJ015600"/>
+    <DLsiteCard store="soft" item="VJ014974"/>
+    <DLsiteCard store="soft" item="VJ015248"/>
+    <DLsiteCard store="soft" item="VJ015665"/>
 </Flex>
 
 外部連携APIを使用し、YMM4から直接音声を生成できます。

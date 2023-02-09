@@ -9,16 +9,16 @@ tags: [YMM4]
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 ### CeVIO AI
 <Flex>
-    <AmazonCard item="B09L51TBV1"/>
-    <AmazonCard item="B0BFHPGZ2M"/>    
-    <AmazonCard item="B09JJGC1FG"/>
-    <AmazonCard item="B09JJTV31Q"/>
-    <AmazonCard item="B09P5FM4JS"/>
-    <AmazonCard item="B0B176B4GY"/>
-    <AmazonCard item="B0BGXH5FD9"/>
-    <AmazonCard item="B09P5BBHNK"/>
-    <AmazonCard item="B09MLXCRCH"/>
-    <AmazonCard item="B09QGS1W56"/>
+    <DLsiteCard store="soft" item="VJ014645"/>
+    <DLsiteCard store="soft" item="VJ015600"/>
+    <DLsiteCard store="soft" item="VJ014974"/>
+    <DLsiteCard store="soft" item="VJ015248"/>
+    <DLsiteCard store="soft" item="VJ015665"/>
+    <DLsiteCard store="soft" item="VJ014833"/>
+    <DLsiteCard store="soft" item="VJ014834"/>
+    <DLsiteCard store="soft" item="VJ014975"/>
+    <DLsiteCard store="soft" item="VJ014895"/>
+    <DLsiteCard store="soft" item="VJ014994"/>
 </Flex>
 
 ### CeVIO Creative Studio
@@ -54,14 +54,14 @@ tags: [YMM4]
 - [CeVIO キャラクターライセンス](https://cevio.jp/cevio_character_licence/)
 
 ### IA
-- [キャラクター二次使用ルール](https://1stplace.co.jp/contact/voice_character_rule.pdf)※リンク切れ
+- [1st PLACE ⼆次創作ガイドライン](https://1stplace.co.jp/contact/voice_character_rule.pdf)
 
 ### ONE
 - [「CeVIO AI ONE TALK -ARIA ON THE PLANETES-」利用規約](https://www.techno-speech-products.com/cevio-ai-one-talk-terms)
 - [音声利用のルール](https://1stplace.co.jp/original/software/cevio/voice_rule.pdf)
-- [キャラクター『ONE』に関するガイドライン](https://1stplace.co.jp/contact/voice_character_rule.pdf)※リンク切れ
+- [1st PLACE ⼆次創作ガイドライン](https://1stplace.co.jp/contact/voice_character_rule.pdf)
 
-### 小春六花
+### 小春六花 / 夏色花梨 / 花隈千冬
 - [CeVIO AIのライセンス種別](https://www.ah-soft.com/commercial/cevio/)
 - [キャラクター使用ガイドライン - TOKYO6 ENTERTAINMENT 公式サイト](https://tokyo6.tokyo/guidelines/)
 
