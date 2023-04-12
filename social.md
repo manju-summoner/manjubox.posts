@@ -5,7 +5,7 @@ tags: [その他]
 ---
 
 ## Twitter
-- [@manju_summoner](https://twitter.com/manjubox)
+- [@manju_summoner](https://twitter.com/manju_summoner)
 
 ## ActivityPub (Fediverse, Mastodon, Misskey, etc.)
 - [@manju_summoner@misskey.io](https://misskey.io/@manju_summoner)
