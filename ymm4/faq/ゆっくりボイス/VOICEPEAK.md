@@ -13,12 +13,7 @@ VOICEPEAKは、株式会社AHSとDreamtonics株式会社が共同開発した音
 > VOICEPEAKのバージョンをv1.2.1以降に更新する必要があります  
 > VOICEPEAK 6ナレーターセット v1.0.1を使用している場合、[AHSマイページ](https://www.ah-soft.com/mypage/)から最新版をダウンロードしてください。（ユーザー登録・製品登録が必要です）
 
-<Flex>
-    <DLsiteCard store="soft" item="VJ015169"/>
-    <DLsiteCard store="soft" item="VJ015808"/>
-    <DLsiteCard store="soft" item="VJ015810"/>
-    <DLsiteCard store="soft" item="VJ015811"/>
-</Flex>
+<VOICEPEAKCards limit="10"/>
 
 ## 利用方法
 1. VOICEPEAKを購入し、お使いのPCにインストールする

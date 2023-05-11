@@ -55,12 +55,7 @@ YMM4と連携して利用可能な外部アプリの一覧です。
 - [ゆっくりMovieMaker4でよみてのれゐを使用する](./faq/ゆっくりボイス/YomiteProgram.md)
 
 ### VOICEPEAK
-<Flex>
-    <DLsiteCard store="soft" item="VJ015169"/>
-    <DLsiteCard store="soft" item="VJ015808"/>
-    <DLsiteCard store="soft" item="VJ015810"/>
-    <DLsiteCard store="soft" item="VJ015811"/>
-</Flex>
+<VOICEPEAKCards limit="5"/>
 
 株式会社AHSとDreamtonics株式会社によって共同開発された、音声合成ソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
@@ -119,13 +114,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 - [ゆっくりMovieMaker4でCoeFontを利用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
 
 ### A.I.VOICE
-<Flex>
-    <DLsiteCard store="soft" item="VJ014432"/>
-    <DLsiteCard store="soft" item="VJ015678"/>
-    <DLsiteCard store="soft" item="VJ015769"/>
-    <DLsiteCard store="soft" item="VJ014433"/>
-    <DLsiteCard store="soft" item="VJ014992"/>
-</Flex>
+<AIVOICECards limit="5"/>
 
 A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
@@ -157,13 +146,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 
 
 ### CeVIO AI / CeVIO Creative Studio 7
-<Flex>
-    <DLsiteCard store="soft" item="VJ014645"/>
-    <DLsiteCard store="soft" item="VJ015600"/>
-    <DLsiteCard store="soft" item="VJ014974"/>
-    <DLsiteCard store="soft" item="VJ015248"/>
-    <DLsiteCard store="soft" item="VJ015665"/>
-</Flex>
+<CeVIOCards limit="5"/>
 
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でCeVIOを使用する](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)

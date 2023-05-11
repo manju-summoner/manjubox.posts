@@ -8,18 +8,7 @@ tags: [YMM4]
 有料の音声合成ソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 ### CeVIO AI
-<Flex>
-    <DLsiteCard store="soft" item="VJ014645"/>
-    <DLsiteCard store="soft" item="VJ015600"/>
-    <DLsiteCard store="soft" item="VJ014974"/>
-    <DLsiteCard store="soft" item="VJ015248"/>
-    <DLsiteCard store="soft" item="VJ015665"/>
-    <DLsiteCard store="soft" item="VJ014833"/>
-    <DLsiteCard store="soft" item="VJ014834"/>
-    <DLsiteCard store="soft" item="VJ014975"/>
-    <DLsiteCard store="soft" item="VJ014895"/>
-    <DLsiteCard store="soft" item="VJ014994"/>
-</Flex>
+<CeVIOCards limit="10"/>
 
 ### CeVIO Creative Studio
 <Flex>

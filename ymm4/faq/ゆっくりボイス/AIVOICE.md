@@ -12,18 +12,7 @@ A.I.VOICE™は、音声合成AITalk®5 の技術を応用した個人利用者�
 > **Note**
 > A.I.VOICEエディタのバージョンをv1.3.0以降に更新する必要があります
 
-<Flex>
-    <DLsiteCard store="soft" item="VJ014432"/>
-    <DLsiteCard store="soft" item="VJ015678"/>
-    <DLsiteCard store="soft" item="VJ015769"/>
-    <DLsiteCard store="soft" item="VJ014433"/>
-    <DLsiteCard store="soft" item="VJ014992"/>
-    <DLsiteCard store="soft" item="VJ015180"/>
-    <DLsiteCard store="soft" item="VJ015695"/>
-    <DLsiteCard store="soft" item="VJ015696"/>
-    <DLsiteCard store="soft" item="VJ015397"/>
-    <DLsiteCard store="soft" item="VJ015590"/>
-</Flex>
+<AIVOICECards limit="10"/>
 
 ## 利用方法
 1. A.I.VOICEを購入し、お使いのPCにインストールする
