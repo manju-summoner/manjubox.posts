@@ -12,7 +12,7 @@ Bluetooth接続時に使用するコーデックの優先順位を変更する�
 1. レジストリエディタを起動する
 1. `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BthA2dp\Parameters`に移動する
 1. `BluetoothAacEnable`の値を`0`にする
-  1. キーが存在しない場合は背景部分を右クリック → 新規 → DWORD（32ビット値）
+   - キーが存在しない場合は背景部分を`右クリック`→`新規`→`DWORD（32ビット値）`
 1. Bluetoothを無効化し、再度有効化する
 
 # 現在接続されているコーデックの確認方法
