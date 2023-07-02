@@ -26,8 +26,8 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 ニコニコ動画に動画を投稿する場合、動画の親作品に[nc236011](https://commons.nicovideo.jp/material/nc236011)の登録をお願いします。 
 - [コンテンツツリーの登録方法](./faq/etc/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E7%99%BB%E9%8C%B2%E6%96%B9%E6%B3%95.md)
 
-<Download url="https://object-storage.tyo1.conoha.io/v1/nc_4fac3ef0e6d843249e0ab2f1fc3e8f85/public/YukkuriMovieMaker4.zip">ゆっくりMovieMaker4をダウンロード</Download>
-<Download url="https://object-storage.tyo1.conoha.io/v1/nc_4fac3ef0e6d843249e0ab2f1fc3e8f85/public/YukkuriMovieMaker4_Lite.zip">ゆっくりMovieMaker4 Liteをダウンロード</Download>
+<Download url="https://object-storage.tyo1.conoha.io/v1/nc_4fac3ef0e6d843249e0ab2f1fc3e8f85/public/YukkuriMovieMaker_v4.zip">ゆっくりMovieMaker4をダウンロード</Download>
+<Download url="https://object-storage.tyo1.conoha.io/v1/nc_4fac3ef0e6d843249e0ab2f1fc3e8f85/public/YukkuriMovieMaker_v4_Lite.zip">ゆっくりMovieMaker4 Liteをダウンロード</Download>
 
 - [YMM4 と YMM4Lite の違い](./faq/etc/YMM4Lite.md)
 - [「Microsoft Store でアプリを検索しますか？」と表示される](./faq/startup_trouble/%E3%80%8CMicrosoftStore%E3%81%A7%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%A4%9C%E7%B4%A2%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8D%E3%81%A8%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B.md)
@@ -40,9 +40,14 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 アプリ内のフィードバックボタン または [お問い合わせページ](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md) からご報告をお願いします。
 
 ## 外部アプリケーション
-YMM4と連携して利用可能な外部アプリの一覧です。
-- 利用方法や不具合に関しては各アプリの開発者へお問い合わせください。
-- [掲載に関するご連絡はこちら](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md)
+YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
+
+### Koemotion / Koeiromap
+![スクリーンショット](index_5719.png)
+rinna株式会社によって提供されている、音声合成サービスです。  
+外部連携APIを使用し、YMM4から直接音声を生成できます。  
+利用には別途APIキーの取得が必要です。  
+- [ゆっくりMovieMaker4でKoemotion / Koeiromapを使用する](./faq/ゆっくりボイス/Koemotion.md)
 
 ### よみてのれゐ
 <Flex>
@@ -190,6 +195,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
   - [CoeFont](./faq/ゆっくりボイス/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [COEIROINK](./faq/ゆっくりボイス/COEIROINK.md)
   - [ITVOICE](./faq/ゆっくりボイス/ITVOICE.md)
+  - [Koemotion / Koeiromap](./faq/ゆっくりボイス/Koemotion.md)
   - [LMROID](./faq/ゆっくりボイス/LMROID.md)
   - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
   - [VOICEPEAK](./faq/ゆっくりボイス/VOICEPEAK.md)
@@ -255,6 +261,12 @@ Copyright (c) 2022 いたほび
 利用には別途ITVOICEのインストールが必要です。  
 利用条件等に関してはITVOICEアプリ内のヘルプをご確認ください。  
 http://itvoice.starfree.jp/
+
+### Koemotion / Koeiromap 外部連携API
+Copyright © 2022 rinna株式会社 - All Rights Reserved.
+利用には別途Koemotion / KoeiromapのAPIキーが必要です。
+利用条件等に関しては[Koemotion公式サイト](https://koemotion.rinna.co.jp/)をご確認ください。
+https://koemotion.rinna.co.jp/
 
 ### LMROID 外部連携API
 Copyright (c) 2022 nohoshio  
