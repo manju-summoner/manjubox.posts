@@ -2,6 +2,7 @@
 - key: /ymm4/faq/
   index:
   - page: startup_trouble
+  - page: app_conflicts
   - page: ui
   - page: timeline
   - page: ゆっくりボイス
