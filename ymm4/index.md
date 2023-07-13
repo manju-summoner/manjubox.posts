@@ -42,6 +42,13 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### YMovieHelper
+![スクリーンショット](index_1001.png)
+[だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
+csv形式の台本ファイルを元に、YMM4用のプロジェクトファイルを生成することが出来ます。  
+立ち絵の表情や動画の切り替えにも対応しています。
+- [YMovieHelper](https://ymovie-helper.vercel.app)
+
 ### Koemotion / Koeiromap
 ![スクリーンショット](index_5719.png)
 rinna株式会社によって提供されている、音声合成サービスです。  
