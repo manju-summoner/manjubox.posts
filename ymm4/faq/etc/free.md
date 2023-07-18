@@ -2,6 +2,7 @@
 title: 無料で利用できる範囲を知りたい
 date: 2022-10-15
 tags: [YMM4]
+keywoards: [無料, ライセンス, フリー]
 ---
 ## ゆっくりMovieMaker4を利用する場合
 AquesTalk（ゆっくりボイスの音声合成エンジン）の[個人利用ライセンス](https://www.a-quest.com/licence_free.html)の対象となる使い方をする場合は無料でご利用いただけます。  

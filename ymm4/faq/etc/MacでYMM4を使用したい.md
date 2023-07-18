@@ -2,6 +2,7 @@
 title: MacでYMM4を使用したい
 date: 2021-05-21
 tags: [YMM4]
+keywords: [Mac]
 ---
 ゆっくりMovieMaker4はWindows10専用アプリのため、Mac上で起動することはできません。  
 なお、現在Macへの対応予定はありません。
