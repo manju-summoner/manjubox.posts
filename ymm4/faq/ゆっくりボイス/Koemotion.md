@@ -2,6 +2,7 @@
 title: Koemotion / Koeiromapの音声を利用する
 date: 2022-07-01
 tags: [YMM4]
+keywords: [Koemotion, Koeiromap]
 ---
 ## Koemotion / Koeiromapとは
 ![スクリーンショット](Koemotion_1248.png)

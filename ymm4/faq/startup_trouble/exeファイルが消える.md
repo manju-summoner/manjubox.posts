@@ -2,6 +2,7 @@
 title: YukkuriMovieMaker.exeが存在しない（削除される）
 date: 2020-12-21
 tags: [YMM4]
+keywords: [exe, 削除, 消え, 見つか]
 ---
 ## 発生する症状
 - YukkuriMovieMaker.zipを展開（解凍）しても、YukkuriMovieMaker.exeが見つからない

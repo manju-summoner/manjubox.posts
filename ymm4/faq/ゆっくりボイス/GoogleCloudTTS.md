@@ -2,6 +2,7 @@
 title: Google Cloud Text-to-Speechの音声を利用する
 date: 2022-07-01
 tags: [YMM4]
+keywords: [Google Cloud, GoogleCloud]
 ---
 ## Google Cloud Text-to-Speechとは
 Googleの提供するクラウド音声合成サービスです。  

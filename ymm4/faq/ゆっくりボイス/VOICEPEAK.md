@@ -2,6 +2,7 @@
 title: VOICEPEAKの音声を利用する
 date: 2022-02-27
 tags: [YMM4]
+keywords: [VOICEPEAK, ボイスピ]
 ---
 ## A.I.VOICEとは
 ![スクリーンショット](VOICEPEAK_0548.png)

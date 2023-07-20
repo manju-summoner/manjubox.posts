@@ -2,6 +2,7 @@
 title: CoeFont の音声を使用する
 date: 2022-01-02
 tags: [YMM4]
+keywords: [CoeFont, コエフォント, アリアル, ミリアル]
 ---
 ## CoeFont とは
 (株)CoeFontによって運営されている、クラウドAI音声合成サービスです。  

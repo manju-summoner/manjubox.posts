@@ -2,6 +2,7 @@
 title: VOICEVOX の音声を使用する
 date: 2021-12-29
 tags: [YMM4]
+keywords: [VOICEVOX, VOICEBOX, BOICEBOX, BOICEVOX, ボイスボックス, ボイボ]
 ---
 ## VOICEVOX とは
 ![スクリーンショット](VOICEVOXを使用する_0639.png)

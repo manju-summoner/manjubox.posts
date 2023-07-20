@@ -2,6 +2,7 @@
 title: 「Microsoft Store でアプリを検索しますか？」と表示される
 date: 2022-12-13
 tags: [YMM4]
+keywords: [Microsoft Store, 検索]
 ---
 ## 発生する症状
 ![スクリーンショット](「MicrosoftStoreでアプリを検索しますか？」と表示される.png)

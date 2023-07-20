@@ -2,6 +2,7 @@
 title: CeVIO AI / CeVIO CS の音声を使用する
 date: 2021-12-29
 tags: [YMM4]
+keywords: [CeVIO, チェビオ]
 ---
 ## CeVIO AI / CeVIO CS とは
 ![スクリーンショット](CeVIOを使用する_5641.png)

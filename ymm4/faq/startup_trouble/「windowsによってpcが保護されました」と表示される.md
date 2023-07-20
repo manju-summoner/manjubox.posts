@@ -2,6 +2,7 @@
 title: 「WindowsによってPCが保護されました」と表示される
 date: 2018-04-12
 tags: [YMM4]
+keywords: [Windows, 保護されました]
 ---
 ## 発生する症状
 ![スクリーンショット](「windowsによってpcが保護されました」と表示される1.png)

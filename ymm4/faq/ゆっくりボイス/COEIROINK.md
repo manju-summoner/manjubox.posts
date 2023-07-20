@@ -2,6 +2,7 @@
 title: COEIROINKの音声を利用する
 date: 2022-02-27
 tags: [YMM4]
+keywords: [COEIROINK, コエイロインク, マイコエ]
 ---
 ## COEIROINKとは
 ![スクリーンショット](COEIROINK_0843.png)

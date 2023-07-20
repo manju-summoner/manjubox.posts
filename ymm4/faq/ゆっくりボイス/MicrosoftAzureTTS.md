@@ -2,6 +2,7 @@
 title: Microsoft Azure Text-to-Speechの音声を利用する
 date: 2022-07-01
 tags: [YMM4]
+keywords: [Azure]
 ---
 ## Microsoft Azure Text-to-Speechとは
 Microsoftの提供するクラウド音声合成サービスです。  

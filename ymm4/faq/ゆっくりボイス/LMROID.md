@@ -2,6 +2,7 @@
 title: LMROIDの音声を利用する
 date: 2022-09-08
 tags: [YMM4]
+keywords: [LMROID, レミロイド]
 ---
 ## LMROIDとは
 ![スクリーンショット](LMROID_0347.png)

@@ -2,6 +2,7 @@
 title: YMM4とYMM4Liteの違いは？
 date: 2022-02-27
 tags: [YMM4]
+keywords: [Lite]
 ---
 ## ゆっくりMovieMaker4 Liteとは
 通常のYMM4から、商用利用の際にライセンスの購入が必要になるAquesTalk1、AquesTalk2、AquesTalk10を取り除いた状態で配布しているバージョンです。  

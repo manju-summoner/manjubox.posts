@@ -2,6 +2,7 @@
 title: SHAREVOXの音声を利用する
 date: 2022-09-10
 tags: [YMM4]
+keywords: [SHAREVOX, シェアボ]
 ---
 ## SHAREVOXとは
 ![スクリーンショット](SHAREVOX_2656.png)

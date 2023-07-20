@@ -2,6 +2,7 @@
 title: Amazon Pollyの音声を利用する
 date: 2022-07-01
 tags: [YMM4]
+keywords: [Amazon Polly, AmazonPolly]
 ---
 ## Amazon Pollyとは
 Amazonの提供するクラウド音声合成サービスです。

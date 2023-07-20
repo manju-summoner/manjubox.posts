@@ -2,6 +2,7 @@
 title: A.I.VOICEの音声が声質欄に表示されない
 date: 2022-06-14
 tags: [YMM4]
+keywords: [A.I.VOICE, AIVOICE, アイボス]
 ---
 ## 発生する症状
 A.I.VOICEをインストールしているのにもかかわらず、YMM4の声質欄にA.I.VOICEキャラクターが表示されない
