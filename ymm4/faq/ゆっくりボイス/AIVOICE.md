@@ -2,6 +2,7 @@
 title: A.I.VOICEの音声を利用する
 date: 2022-02-27
 tags: [YMM4]
+keywords: [A.I.VOICE, AIVOICE, アイボス]
 ---
 ## A.I.VOICEとは
 ![スクリーンショット](AIVOICE_5837.png)
