@@ -1,4 +1,5 @@
 
 - key: /memo/
   index:
+  - page: disable_bluetooth_aac_coder_on_windows11
   - page: epona-vrm
