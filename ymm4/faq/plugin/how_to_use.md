@@ -13,7 +13,7 @@ tags: [YMM4]
    - [動画出力プラグイン](https://github.com/topics/ymm4-video-writer)
    - [音声エフェクト](https://github.com/topics/ymm4-audio-effect)
    - [映像エフェクト](https://github.com/topics/ymm4-video-effect)
-   - [音声合成エフェクト](https://github.com/topics/ymm4-voice)
+   - [音声合成プラグイン](https://github.com/topics/ymm4-voice)
    - [AIテキスト補完プラグイン](https://github.com/topics/ymm4-text-completion)
 1. ダウンロードしたプラグインを展開する
 1. *YMM4フォルダ\user\plugin*フォルダ内にプラグインを配置する  
