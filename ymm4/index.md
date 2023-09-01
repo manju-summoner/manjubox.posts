@@ -42,6 +42,12 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### TALQu3 PRO
+![スクリーンショット](index_0719.png)
+[Haruqa](https://twitter.com/niconicoHaruqa)さんによって[Haruqa｜PixivFANBOX](https://www.fanbox.cc/@haruqa)支援者向けに公開されている音声合成ソフトです。  
+外部連携APIを使用し、YMM4から直接音声を生成できます。 
+- [ゆっくりMovieMaker4でTALQu3 PROを使用する](./faq/ゆっくりボイス/TALQu.md)
+
 ### YMovieHelper
 ![スクリーンショット](index_1001.png)
 [だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
@@ -205,6 +211,7 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
   - [Koemotion / Koeiromap](./faq/ゆっくりボイス/Koemotion.md)
   - [LMROID](./faq/ゆっくりボイス/LMROID.md)
   - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
+  - [TALQu3 PRO](./faq/ゆっくりボイス/TALQu.md)
   - [VOICEPEAK](./faq/ゆっくりボイス/VOICEPEAK.md)
   - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [よみてのれゐ](./faq/ゆっくりボイス/YomiteProgram.md)
@@ -286,6 +293,12 @@ Copyright (c) 2022 y-chan
 利用には別途SHAREVOXのインストールが必要です。  
 利用条件等に関してSHAREVOXアプリ内のヘルプをご確認ください  
 https://www.sharevox.app/
+
+### TALQu3 PRO 外部連携API
+Copyright (c) Haruqa
+利用には別途TALQu3 PROのインストールが必要です。
+利用条件等に関してはTALQu3 PROアプリ内のヘルプをご確認ください。
+https://haruqa.fanbox.cc/
 
 ### VOICEPEAK コマンドラインAPI
 Copyright (c) 2022 Dreamtonics 株式会社  
