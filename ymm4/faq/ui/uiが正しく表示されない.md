@@ -2,7 +2,7 @@
 title: UIが正しく表示されない
 date: 2020-02-19
 tags: [YMM4]
-keywords: [UI, ボタン, 表示, 崩]
+keywords: [UI, ボタン, 崩]
 ---
 ## 発生する症状
 ![スクリーンショット](uiが正しく表示されない1.png)
