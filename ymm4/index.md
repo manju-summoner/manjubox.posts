@@ -58,6 +58,7 @@ YMM4にデフォルトで組み込まれており、YMM4Liteではプラグイ�
 
 ### CeVIO AI / CeVIO Creative Studio 7
 <CeVIOCards limit="5"/>
+
 CeVIOプロジェクトが開発する音声合成ソフトです。  
 - [ゆっくりMovieMaker4でCeVIOを使用する](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
 
@@ -194,6 +195,20 @@ YMM4に機能を追加するプラグインの一覧です。
 | [音割れプラグイン](https://twitter.com/benikazura_X/status/1700044280629506422) | [べにかずら](https://twitter.com/benikazura_X) | 音割れ効果を付与する音声エフェクトです |
 | [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
 
+## Windows拡張機能
+Windowsの拡張機能をインストールすると、より多くのファイルを読み込めるようになります。
+
+| 名前・配布元 | 読み込めるようになるファイル形式 |
+| --- | --- |
+| [AV1 Video Extension](https://www.microsoft.com/ja-jp/p/av1-video-extension-beta/9mvzqvxjbq9v) | AV1形式の動画ファイル |
+| [HEVC ビデオ拡張機能](https://www.microsoft.com/ja-jp/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq) | HEVC形式の動画ファイル |
+| [MPEG-2 ビデオ拡張機能](https://www.microsoft.com/ja-jp/p/mpeg-2-%E3%83%93%E3%83%87%E3%82%AA%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9n95q1zzpmh4) | MPEG-2形式の動画ファイル |
+| [VP9 ビデオ拡張機能](https://www.microsoft.com/ja-jp/p/vp9-%E3%83%93%E3%83%87%E3%82%AA%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9n4d0msmp0pt) | VP9形式の動画ファイル |
+| [Web メディア拡張機能](https://www.microsoft.com/ja-jp/p/web-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9n5tdp8vcmhs) | VorbisまたはTheoraでエンコードされたOggファイル |
+| [HEIF 画像拡張機能](https://www.microsoft.com/ja-jp/p/heif-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pmmsr1cgpwg) | HEIF形式の画像ファイル |
+| [Raw Image Extension](https://www.microsoft.com/ja-jp/p/raw-image-extension/9nctdw2w1bh8) | RAW形式の画像ファイル |
+| [Webp 画像拡張機能](https://www.microsoft.com/ja-jp/p/webp-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pg2dk419drg) | Webp形式の画像ファイル |
+
 ## 動作環境
 - Windows 10, Windows 11
 - .NET Framework 4.7.2 以上
@@ -212,40 +227,10 @@ YMM4に機能を追加するプラグインの一覧です。
 - 立ち絵
   - [シンプル立ち絵](./faq/立ち絵機能/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%AB%8B%E3%81%A1%E7%B5%B5%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95.md)
   - [動く立ち絵](./faq/立ち絵機能/%E5%8B%95%E3%81%8F%E7%AB%8B%E3%81%A1%E7%B5%B5%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95.md)
-- 利用可能な音声合成ソフト / サービス / エンジン
-  - [A.I.VOICE](./faq/ゆっくりボイス/AIVOICE.md)
-  - [Amazon Polly](./faq/ゆっくりボイス/AmazonPolly.md)
-  - AquesTalk1 / AquesTalk2 / AquesTalk10
-  - [CeVIO CS7 / CeVIO AI](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
-  - [CoeAvatar](./faq/ゆっくりボイス/CoeAvatar.md)
-  - [CoeFont](./faq/ゆっくりボイス/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
-  - [COEIROINK](./faq/ゆっくりボイス/COEIROINK.md)
-  - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
-  - [ITVOICE](./faq/ゆっくりボイス/ITVOICE.md)
-  - [Koemotion / Koeiromap](./faq/ゆっくりボイス/Koemotion.md)
-  - [LMROID](./faq/ゆっくりボイス/LMROID.md)
-  - [Microsoft Azure Text-to-Speech](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
-  - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
-  - [TALQu3 PRO](./faq/ゆっくりボイス/TALQu.md)
-  - [VOICEPEAK](./faq/ゆっくりボイス/VOICEPEAK.md)
-  - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
-  - [よみてのれゐ](./faq/ゆっくりボイス/YomiteProgram.md)
-  - [唄詠](http://shinta.coresv.com/software/utayomi_jpn/)
-  - その他SAPI系音声合成エンジン
-- 利用可能なアドオン
-  - [AV1 Video Extension](https://www.microsoft.com/ja-jp/p/av1-video-extension-beta/9mvzqvxjbq9v)
-  - [HEVC ビデオ拡張機能](https://www.microsoft.com/ja-jp/p/hevc-video-extensions-from-device-manufacturer/9n4wgh0z6vhq)
-  - [MPEG-2 ビデオ拡張機能](https://www.microsoft.com/ja-jp/p/mpeg-2-%E3%83%93%E3%83%87%E3%82%AA%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9n95q1zzpmh4)
-  - [VP9 ビデオ拡張機能](https://www.microsoft.com/ja-jp/p/vp9-%E3%83%93%E3%83%87%E3%82%AA%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9n4d0msmp0pt)
-  - [Web メディア拡張機能](https://www.microsoft.com/ja-jp/p/web-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9n5tdp8vcmhs)
-  - [HEIF 画像拡張機能](https://www.microsoft.com/ja-jp/p/heif-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pmmsr1cgpwg)
-  - [Raw Image Extension](https://www.microsoft.com/ja-jp/p/raw-image-extension/9nctdw2w1bh8)
-  - [Webp 画像拡張機能](https://www.microsoft.com/ja-jp/p/webp-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pg2dk419drg)
-- プラグイン
-  - [プラグインの使い方](./faq/plugin/how_to_use.md)
-  - [プラグインの作り方](./faq/plugin/how_to_make.md)
-  - [プラグインサンプル集](https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples)
-  - [#YMM4Plugin - X (旧Twitter)](https://twitter.com/search?q=%23YMM4Plugin&f=live)
+- [利用可能な音声合成ソフト・サービス](./#対応している音声合成ソフトサービス)
+- [プラグイン](./#プラグイン)
+- [Windows拡張機能](./#Windows拡張機能)
+
 
 ## 使用ライブラリ等
 ### AquesTalk1 / AquesTalk2 / AquesTalk10
