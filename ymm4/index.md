@@ -12,7 +12,7 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 ## 使用上の注意
 - YMM3で作成したプロジェクトファイル（.ymmp）は読み込めません
 - Windows 8.1以前、Mac、Linux、ChromeOS、iOS、Android では動作しません
-- 本アプリを使用することによって何らかの損害が発生した場合でも、開発者は一切の責任を負わないものとします。自己責任で使用してください。
+- 本アプリ、外部ツール及びプラグインを使用することによって何らかの損害が発生した場合でも、開発者は一切の責任を負わないものとします。自己責任で使用してください。
 
 ## 商用利用・広告付き動画について
 利用状況によって、別途ライセンスの購入が必要になる場合があります。  
@@ -39,28 +39,99 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 ## 不具合を見つけた場合
 アプリ内のフィードバックボタン または [お問い合わせページ](../%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B.md) からご報告をお願いします。
 
-## 外部アプリケーション
-YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
+## 対応している音声合成ソフト・サービス
+### A.I.VOICE
+<AIVOICECards limit="5"/>
 
-### TALQu3 PRO
-![スクリーンショット](index_0719.png)
-[Haruqa](https://twitter.com/niconicoHaruqa)さんによって[Haruqa｜PixivFANBOX](https://www.fanbox.cc/@haruqa)支援者向けに公開されている音声合成ソフトです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。 
-- [ゆっくりMovieMaker4でTALQu3 PROを使用する](./faq/ゆっくりボイス/TALQu.md)
+A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
+- [ゆっくりMovieMaker4でA.I.VOICEを使用する](./faq/ゆっくりボイス/AIVOICE.md)
 
-### YMovieHelper
-![スクリーンショット](index_1001.png)
-[だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
-csv形式の台本ファイルを元に、YMM4用のプロジェクトファイルを生成することが出来ます。  
-立ち絵の表情や動画の切り替えにも対応しています。
-- [YMovieHelper](https://ymovie-helper.vercel.app)
+### Amazon Polly
+Amazonが提供するクラウド音声合成サービスです。  
+- [ゆっくりMovieMaker4でAmazon Pollyを使用する](./faq/ゆっくりボイス/AmazonPolly.md)
+
+### AquesTalk1 / AquesTalk2 / AquesTalk10
+ゆっくりボイスで知られる株式会社アクエストが提供する音声合成ライブラリです。  
+YMM4にデフォルトで組み込まれており、YMM4Liteではプラグインとして利用可能です。   
+営利目的での使用は当該ライブラリの使用ライセンスが必要になります。  
+- [商用利用・広告付き動画を投稿したい](./faq/etc/%E5%95%86%E7%94%A8%E5%88%A9%E7%94%A8%E3%83%BB%E5%BA%83%E5%91%8A%E4%BB%98%E3%81%8D%E5%8B%95%E7%94%BB%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%97%E3%81%9F%E3%81%84/)
+
+### CeVIO AI / CeVIO Creative Studio 7
+<CeVIOCards limit="5"/>
+CeVIOプロジェクトが開発する音声合成ソフトです。  
+- [ゆっくりMovieMaker4でCeVIOを使用する](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
+
+### CoeAvatar
+<Flex>
+    <DLsiteCard store="soft" item="VJ015358"/>
+    <DLsiteCard store="soft" item="VJ015438"/>
+    <DLsiteCard store="soft" item="VJ015586"/>
+</Flex>
+
+コエステ株式会社が提供するクラウド音声合成サービスです。  
+- [ゆっくりMovieMaker4でCoeAvatarを使用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeAvatar.md)
+
+### CoeFont
+![スクリーンショット](index_1057.png)
+3000種類以上の音声が利用可能なAI音声合成サービスです。  
+「アリアル（通常、喜、怒、哀、楽）」「ミリアル（通常）」を無料でご利用いただけます。  
+その他の音声を利用する場合はEnterprise（法人・個人事業主向け）プラン以上の契約が必要となります。
+- [ゆっくりMovieMaker4でCoeFontを利用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
+
+### COEIROINK
+![スクリーンショット](index_0843.png)
+[シロワニさん](https://twitter.com/shirowanisan)によって開発されているフリーの音声合成ソフトです。  
+※細かい利用規約は[COEIROINK公式サイト](https://coeiroink.com/terms)をご確認ください。
+- [ゆっくりMovieMaker4でCOEIROINKを使用する](./faq/ゆっくりボイス/COEIROINK.md)
+
+### Google Cloud Text-to-Speech
+Googleが提供するクラウド音声合成サービスです。  
+- [ゆっくりMovieMaker4でGoogle Cloud Text-to-Speechを使用する](./faq/ゆっくりボイス/GoogleCloudTTS.md)
+
+### ITVOICE
+![スクリーンショット](index_4641.png)
+[いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。  
+※細かい利用規約は[ITVOICE公式サイト](http://itvoice.starfree.jp/index.html)をご確認ください。
+- [ゆっくりMovieMaker4でITVOICEを使用する](./faq/ゆっくりボイス/ITVOICE.md)
 
 ### Koemotion / Koeiromap
 ![スクリーンショット](index_5719.png)
 rinna株式会社によって提供されている、音声合成サービスです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。  
 利用には別途APIキーの取得が必要です。  
 - [ゆっくりMovieMaker4でKoemotion / Koeiromapを使用する](./faq/ゆっくりボイス/Koemotion.md)
+
+### LMROID
+![スクリーンショット](index_1900.png)
+LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
+※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/terms)をご確認ください。
+- [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
+
+### Microsoft Azure Text-to-Speech
+Microsoftが提供するクラウド音声合成サービスです。  
+- [ゆっくりMovieMaker4でMicrosoft Azure Text-to-Speechを使用する](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
+
+### SHAREVOX
+![スクリーンショット](index_2343.png)
+[Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
+※細かい利用規約は[SHAREVOX公式サイト](https://www.sharevox.app/)をご確認ください。
+- [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
+
+### TALQu3 PRO
+![スクリーンショット](index_0719.png)
+[Haruqa](https://twitter.com/niconicoHaruqa)さんによって[Haruqa｜PixivFANBOX](https://www.fanbox.cc/@haruqa)支援者向けに公開されている音声合成ソフトです。  
+- [ゆっくりMovieMaker4でTALQu3 PROを使用する](./faq/ゆっくりボイス/TALQu.md)
+
+### VOICEPEAK
+<VOICEPEAKCards limit="5"/>
+
+株式会社AHSとDreamtonics株式会社によって共同開発された、音声合成ソフトです。  
+- [ゆっくりMovieMaker4でVOICEPEAKを使用する](./faq/ゆっくりボイス/VOICEPEAK.md)
+
+### VOICEVOX
+![スクリーンショット](index_0545.png)
+[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
+※細かい利用規約は[VOICEVOX公式サイト](https://voicevox.hiroshiba.jp/)をご確認ください。
+- [ゆっくりMovieMaker4でVOICEVOXを使用する](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
 
 ### よみてのれゐ
 <Flex>
@@ -69,29 +140,22 @@ rinna株式会社によって提供されている、音声合成サービスで
 
 よみてプログラムによって開発された音声合成ソフトです。  
 日本の同人活動でのみ商用利用可能なライセンスが設定されています。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [ゆっくりMovieMaker4でよみてのれゐを使用する](./faq/ゆっくりボイス/YomiteProgram.md)
 
-### VOICEPEAK
-<VOICEPEAKCards limit="5"/>
+### 唄詠
+![スクリーンショット](index_3228.png)
+[SHINTA](https://twitter.com/shinta0806)さんによって開発されている、UTAU音源を使用したテキスト音声合成ソフトウェアです。  
+- [唄詠 | 翔星ワールド](http://shinta.coresv.com/software/utayomi_jpn/)
 
-株式会社AHSとDreamtonics株式会社によって共同開発された、音声合成ソフトです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。
-- [ゆっくりMovieMaker4でVOICEPEAKを使用する](./faq/ゆっくりボイス/VOICEPEAK.md)
+## 外部アプリケーション
+YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
-### ITVOICE
-![スクリーンショット](index_4641.png)
-[いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。  
-VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[ITVOICE公式サイト](http://itvoice.starfree.jp/index.html)をご確認ください。
-- [ゆっくりMovieMaker4でITVOICEを使用する](./faq/ゆっくりボイス/ITVOICE.md)
-
-### SHAREVOX
-![スクリーンショット](index_2343.png)
-[Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
-VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[SHAREVOX公式サイト](https://www.sharevox.app/)をご確認ください。
-- [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
+### YMovieHelper
+![スクリーンショット](index_1001.png)
+[だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
+csv形式の台本ファイルを元に、YMM4用のプロジェクトファイルを生成することが出来ます。  
+立ち絵の表情や動画の切り替えにも対応しています。
+- [YMovieHelper](https://ymovie-helper.vercel.app)
 
 ### KuchiPaku
 ![スクリーンショット](index_4407.png)
@@ -105,46 +169,6 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 - [f2ft](https://github.com/unikuma/f2ft)
 - [ダウンロードページ](https://github.com/unikuma/f2ft/releases)
 
-### LMROID
-![スクリーンショット](index_1900.png)
-LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
-VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/terms)をご確認ください。
-- [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
-
-### CoeAvatar
-<Flex>
-    <DLsiteCard store="soft" item="VJ015358"/>
-    <DLsiteCard store="soft" item="VJ015438"/>
-    <DLsiteCard store="soft" item="VJ015586"/>
-</Flex>
-
-コエステ株式会社の提供するクラウド音声合成サービスです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。
-- [ゆっくりMovieMaker4でCoeAvatarを使用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeAvatar.md)
-
-### CoeFont
-![スクリーンショット](index_1057.png)
-3000種類以上の音声が利用可能なAI音声合成サービスです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。  
-「アリアル（通常、喜、怒、哀、楽）」「ミリアル（通常）」を無料でご利用いただけます。  
-その他の音声を利用する場合はEnterprise（法人・個人事業主向け）プラン以上の契約が必要となります。
-- [ゆっくりMovieMaker4でCoeFontを利用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
-
-### A.I.VOICE
-<AIVOICECards limit="5"/>
-
-A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。
-- [ゆっくりMovieMaker4でA.I.VOICEを使用する](./faq/ゆっくりボイス/AIVOICE.md)
-
-### COEIROINK
-![スクリーンショット](index_0843.png)
-[シロワニさん](https://twitter.com/shirowanisan)によって開発されているフリーの音声合成ソフトです。  
-VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[COEIROINK公式サイト](https://coeiroink.com/terms)をご確認ください。
-- [ゆっくりMovieMaker4でCOEIROINKを使用する](./faq/ゆっくりボイス/COEIROINK.md)
-
 ### OPTPiX SpriteStudio
 ![OPTPiX SpriteStudioで作成した動く立ち絵素材のサンプル](index-spritestudio.webp)
 
@@ -155,33 +179,20 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 以下のページで[動く立ち絵素材](./faq/立ち絵機能/%E5%8B%95%E3%81%8F%E7%AB%8B%E3%81%A1%E7%B5%B5%E7%B4%A0%E6%9D%90%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.md)の作例と、サンプルデータが公開されています。
 - [OPTPiX Spritestudio Ver.6.6.3 でアニメーションWebPが出力可能になりました！](https://www.webtech.co.jp/blog/products/spritestudio/15630/)
 
-### VOICEVOX
-![スクリーンショット](index_0545.png)
-[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[VOICEVOX公式サイト](https://voicevox.hiroshiba.jp/)をご確認ください。
-- [ゆっくりMovieMaker4でVOICEVOXを使用する](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
-
-
-### CeVIO AI / CeVIO Creative Studio 7
-<CeVIOCards limit="5"/>
-
-外部連携APIを使用し、YMM4から直接音声を生成できます。
-- [ゆっくりMovieMaker4でCeVIOを使用する](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
-
-### 唄詠
-![スクリーンショット](index_3228.png)
-[SHINTA](https://twitter.com/shinta0806)さんによって開発されている、UTAU音源を使用したテキスト音声合成ソフトウェアです。  
-外部連携APIを使用し、YMM4から直接音声を生成できます。
-- [唄詠 | 翔星ワールド](http://shinta.coresv.com/software/utayomi_jpn/)
-
-### その他クラウド系音声合成サービス
- - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
- - [Amazon Polly](./faq/ゆっくりボイス/AmazonPolly.md)
- - [Microsoft Azure Text-to-Speech](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
-
 ### その他
 - [過去掲載していた開発終了済みの外部ツールはこちら](#謝辞)
+
+## プラグイン
+YMM4に機能を追加するプラグインの一覧です。
+- [プラグインの使い方](./faq/plugin/how_to_use.md)
+- [プラグインの作り方](./faq/plugin/how_to_make.md)
+- [プラグインサンプル集](https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples)
+- [#YMM4Plugin - X (旧Twitter)](https://twitter.com/search?q=%23YMM4Plugin&f=live)
+
+| 名前・配布元 | 開発者 | 説明 |
+| --- | --- | --- | --- |
+| [音割れプラグイン](https://twitter.com/benikazura_X/status/1700044280629506422) | [べにかずら](https://twitter.com/benikazura_X) | 音割れ効果を付与する音声エフェクトです |
+| [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
 
 ## 動作環境
 - Windows 10, Windows 11
@@ -201,24 +212,25 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 - 立ち絵
   - [シンプル立ち絵](./faq/立ち絵機能/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%AB%8B%E3%81%A1%E7%B5%B5%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95.md)
   - [動く立ち絵](./faq/立ち絵機能/%E5%8B%95%E3%81%8F%E7%AB%8B%E3%81%A1%E7%B5%B5%E3%81%AE%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95.md)
-- サードパーティー製音声合成ソフト
+- 利用可能な音声合成ソフト / サービス / エンジン
   - [A.I.VOICE](./faq/ゆっくりボイス/AIVOICE.md)
+  - [Amazon Polly](./faq/ゆっくりボイス/AmazonPolly.md)
+  - AquesTalk1 / AquesTalk2 / AquesTalk10
   - [CeVIO CS7 / CeVIO AI](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [CoeAvatar](./faq/ゆっくりボイス/CoeAvatar.md)
   - [CoeFont](./faq/ゆっくりボイス/CoeFont%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [COEIROINK](./faq/ゆっくりボイス/COEIROINK.md)
+  - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
   - [ITVOICE](./faq/ゆっくりボイス/ITVOICE.md)
   - [Koemotion / Koeiromap](./faq/ゆっくりボイス/Koemotion.md)
   - [LMROID](./faq/ゆっくりボイス/LMROID.md)
+  - [Microsoft Azure Text-to-Speech](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
   - [SHAREVOX](./faq/ゆっくりボイス/SHAREVOX.md)
   - [TALQu3 PRO](./faq/ゆっくりボイス/TALQu.md)
   - [VOICEPEAK](./faq/ゆっくりボイス/VOICEPEAK.md)
   - [VOICEVOX](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
   - [よみてのれゐ](./faq/ゆっくりボイス/YomiteProgram.md)
   - [唄詠](http://shinta.coresv.com/software/utayomi_jpn/)
-  - [Google Cloud Text-to-Speech](./faq/ゆっくりボイス/GoogleCloudTTS.md)
-  - [Amazon Polly](./faq/ゆっくりボイス/AmazonPolly.md)
-  - [Microsoft Azure Text-to-Speech](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
   - その他SAPI系音声合成エンジン
 - 利用可能なアドオン
   - [AV1 Video Extension](https://www.microsoft.com/ja-jp/p/av1-video-extension-beta/9mvzqvxjbq9v)
@@ -229,6 +241,11 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
   - [HEIF 画像拡張機能](https://www.microsoft.com/ja-jp/p/heif-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pmmsr1cgpwg)
   - [Raw Image Extension](https://www.microsoft.com/ja-jp/p/raw-image-extension/9nctdw2w1bh8)
   - [Webp 画像拡張機能](https://www.microsoft.com/ja-jp/p/webp-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pg2dk419drg)
+- プラグイン
+  - [プラグインの使い方](./faq/plugin/how_to_use.md)
+  - [プラグインの作り方](./faq/plugin/how_to_make.md)
+  - [プラグインサンプル集](https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples)
+  - [#YMM4Plugin - X (旧Twitter)](https://twitter.com/search?q=%23YMM4Plugin&f=live)
 
 ## 使用ライブラリ等
 ### AquesTalk1 / AquesTalk2 / AquesTalk10
