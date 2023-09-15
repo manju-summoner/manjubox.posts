@@ -210,7 +210,7 @@ Windowsの拡張機能をインストールすると、より多くのファイ�
 | [Webp 画像拡張機能](https://www.microsoft.com/ja-jp/p/webp-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pg2dk419drg) | Webp形式の画像ファイル |
 
 ## 動作環境
-- Windows 10, Windows 11
+- Windows 10 バージョン2004以降, Windows 11
 - .NET Framework 4.7.2 以上
 - DirectX 11 / Shader Model 5.0 対応GPU
   - [※ DirectX10世代のGPUでは一部のエフェクトが機能しません](./faq/effect/2769-2.md)
