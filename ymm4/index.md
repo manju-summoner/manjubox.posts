@@ -300,7 +300,7 @@ https://www.sharevox.app/
 Copyright (c) Haruqa
 利用には別途TALQu3 PROのインストールが必要です。
 利用条件等に関してはTALQu3 PROアプリ内のヘルプをご確認ください。
-https://haruqa.fanbox.cc/
+https://haruqa.github.io/TALQu/
 
 ### VOICEPEAK コマンドラインAPI
 Copyright (c) 2022 Dreamtonics 株式会社  

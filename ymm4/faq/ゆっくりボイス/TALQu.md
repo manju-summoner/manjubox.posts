@@ -8,7 +8,7 @@ keywords: [TALQu]
 ![スクリーンショット](TALQu_0546.png)
 [Haruqa](https://twitter.com/niconicoHaruqa)さんによって[Haruqa｜PixivFANBOX](https://www.fanbox.cc/@haruqa)支援者向けに公開されている音声合成ソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。 
-- [Haruqa｜pixivFANBOX](https://www.fanbox.cc/@haruqa)
+- [TALQu](https://haruqa.github.io/TALQu/)
 
 ## 利用方法
 1. [Haruqa｜pixivFANBOX](https://www.fanbox.cc/@haruqa)へ支援する
