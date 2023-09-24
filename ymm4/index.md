@@ -189,6 +189,7 @@ YMM4に機能を追加するプラグインの一覧です。
 - [プラグインの作り方](./faq/plugin/how_to_make.md)
 - [プラグインサンプル集](https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples)
 - [#YMM4Plugin - X (旧Twitter)](https://twitter.com/search?q=%23YMM4Plugin&f=live)
+- [#ymm4-plugin - GitHub](https://github.com/topics/ymm4-plugin)
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
