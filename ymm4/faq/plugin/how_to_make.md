@@ -3,6 +3,10 @@ title: プラグインを作成する
 date: 2023-09-01
 tags: [YMM4]
 ---
+> **Warning**
+> こちらはプラグインの作成方法を解説しているページです。  
+> 配布されているプラグインをYMM4に追加する方法は[プラグインを使用する](./how_to_use.md)をご確認ください。
+
 ## プラグインのサンプル
 - [サンプルプラグイン集](https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples)
 
