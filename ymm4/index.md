@@ -187,14 +187,16 @@ csv形式の台本ファイルを元に、YMM4用のプロジェクトファイ�
 YMM4に機能を追加するプラグインの一覧です。
 - [プラグインの使い方](./faq/plugin/how_to_use.md)
 - [プラグインの作り方](./faq/plugin/how_to_make.md)
-- [プラグインサンプル集](https://github.com/manju-summoner/YukkuriMovieMaker4PluginSamples)
-- [#YMM4Plugin - X (旧Twitter)](https://twitter.com/search?q=%23YMM4Plugin&f=live)
-- [#ymm4-plugin - GitHub](https://github.com/topics/ymm4-plugin)
+- プラグインを探す
+  - [X (旧Twitter)](https://twitter.com/search?q=%23YMM4Plugin&f=live)
+  - [GitHub](https://github.com/topics/ymm4-plugin)
+  - [BOOTH](https://booth.pm/ja/items?tags%5B%5D=YMM4Plugin)
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
-| [音割れプラグイン](https://twitter.com/benikazura_X/status/1700044280629506422) | [べにかずら](https://twitter.com/benikazura_X) | 音割れ効果を付与する音声エフェクトです |
+| [音割れプラグイン](https://benikazura.booth.pm/items/5125901) | [べにかずら](https://twitter.com/benikazura_X) | 音割れ効果を付与する音声エフェクトです |
 | [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
+| [グリッチプラグイン](https://benikazura.booth.pm/items/5126133) | [べにかずら](https://twitter.com/benikazura_X) | グリッチ効果（画面が乱れたような効果）を付与する映像エフェクトです |
 
 ## Windows拡張機能
 Windowsの拡張機能をインストールすると、より多くのファイルを読み込めるようになります。
@@ -378,6 +380,10 @@ https://github.com/mathnet/mathnet-numerics
 ### Microsoft.CognitiveServices.Speech
 Copyright (c) Microsoft Corporation. All rights reserved.
 https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech/
+
+### NCalcSync / MIT License
+Copyright (c) 2011 Sebastien Ros
+https://github.com/ncalc/ncalc
 
 ### NMeCab / LGPL v2.1
 NMeCab / Copyright(C) Tsuyoshi Komuta  
