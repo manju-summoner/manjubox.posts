@@ -197,7 +197,8 @@ YMM4に機能を追加するプラグインの一覧です。
 | [音割れプラグイン](https://benikazura.booth.pm/items/5125901) | [べにかずら](https://twitter.com/benikazura_X) | 音割れ効果を付与する音声エフェクトです |
 | [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
 | [グリッチプラグイン](https://benikazura.booth.pm/items/5126133) | [べにかずら](https://twitter.com/benikazura_X) | グリッチ効果（画面が乱れたような効果）を付与する映像エフェクトです |
-| [疑似不透明度プラグイン](https://benikazura.booth.pm/items/5156386) | [べにかずら](https://twitter.com/benikazura_X) | 背景に単色化画像を重ねながら不透明度を調整できるエフェクトです |
+| [疑似不透明度プラグイン](https://benikazura.booth.pm/items/5156386) | [べにかずら](https://twitter.com/benikazura_X) | 背景に単色化画像を重ねながら不透明度を調整できる映像エフェクトです |
+| [Unmultプラグイン](https://github.com/mes51/YMM_Unmult/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 黒背景素材を透過素材に変換する映像エフェクトです |
 
 ## Windows拡張機能
 Windowsの拡張機能をインストールすると、より多くのファイルを読み込めるようになります。
