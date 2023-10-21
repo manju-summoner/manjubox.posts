@@ -151,6 +151,10 @@ Microsoftが提供するクラウド音声合成サービスです。
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### AutoYukkuri
+[akaz](https://twitter.com/akazdayo)さんによって開発されている、録音した音声ファイルを元に音声認識してプロジェクトファイルを生成するツールです。
+- [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri)
+
 ### YMovieHelper
 ![スクリーンショット](index_1001.png)
 [だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
