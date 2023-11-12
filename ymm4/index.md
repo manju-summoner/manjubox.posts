@@ -296,7 +296,7 @@ http://itvoice.starfree.jp/
 ### Koemotion / Koeiromap 外部連携API
 Copyright © 2022 rinna株式会社 - All Rights Reserved.
 利用には別途Koemotion / KoeiromapのAPIキーが必要です。
-利用条件等に関しては[Koemotion公式サイト](https://koemotion.rinna.co.jp/)をご確認ください。
+利用条件等に関しては[Koemotion公式サイト](https://koemotion.rinna.co.jp/)をご確認ください。  
 https://koemotion.rinna.co.jp/
 
 ### LMROID 外部連携API
@@ -314,7 +314,7 @@ https://www.sharevox.app/
 ### TALQu3 PRO 外部連携API
 Copyright (c) Haruqa
 利用には別途TALQu3 PROのインストールが必要です。
-利用条件等に関してはTALQu3 PROアプリ内のヘルプをご確認ください。
+利用条件等に関してはTALQu3 PROアプリ内のヘルプをご確認ください。  
 https://haruqa.github.io/TALQu/
 
 ### VOICEPEAK コマンドラインAPI
