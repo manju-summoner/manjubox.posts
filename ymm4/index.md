@@ -107,14 +107,14 @@ LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発さ�
 ※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/terms)をご確認ください。
 - [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
 
+### Microsoft Azure Text-to-Speech
+Microsoftが提供するクラウド音声合成サービスです。  
+- [ゆっくりMovieMaker4でMicrosoft Azure Text-to-Speechを使用する](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
+
 ### OpenAI Text-to-Speech
 OpenAI社によって提供されている、音声合成サービスです。  
 利用には別途APIキーが必要です。  
 - [ゆっくりMovieMaker4でOpenAI TTSを使用する](./faq/ゆっくりボイス/OpenAI_TTS.md)
-
-### Microsoft Azure Text-to-Speech
-Microsoftが提供するクラウド音声合成サービスです。  
-- [ゆっくりMovieMaker4でMicrosoft Azure Text-to-Speechを使用する](./faq/ゆっくりボイス/MicrosoftAzureTTS.md)
 
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
