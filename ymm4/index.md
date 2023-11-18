@@ -116,6 +116,11 @@ OpenAI社によって提供されている、音声合成サービスです。
 利用には別途APIキーが必要です。  
 - [ゆっくりMovieMaker4でOpenAI TTSを使用する](./faq/ゆっくりボイス/OpenAI_TTS.md)
 
+### SAPI
+SAPIに対応している音声合成エンジンを利用可能です。  
+Windowsにデフォルトで搭載されています。  
+- [SAPIの声質を追加する](./faq/ゆっくりボイス/SAPI5の声質を追加する.md)
+
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
 [Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
