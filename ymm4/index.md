@@ -139,6 +139,12 @@ Microsoftが提供するクラウド音声合成サービスです。
 ※細かい利用規約は[VOICEVOX公式サイト](https://voicevox.hiroshiba.jp/)をご確認ください。
 - [ゆっくりMovieMaker4でVOICEVOXを使用する](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
 
+### VOICEVOX Nemo
+![スクリーンショット](index_3033.png)
+[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
+※細かい利用規約は[VOICEVOX Nemo公式サイト](https://voicevox.hiroshiba.jp/nemo/)をご確認ください。
+- [ゆっくりMovieMaker4でVOICEVOX Nemoを使用する](./faq/ゆっくりボイス/VOICEVOXNemo.md)
+
 ### よみてのれゐ
 <Flex>
     <DLsiteCard store="home" item="RJ376955"/>
@@ -165,6 +171,7 @@ YMM4用のプロジェクトファイルの出力機能も実装されていま�
 [akaz](https://twitter.com/akazdayo)さんによって開発されている、プロジェクトファイル生成ツールです。  
 録音した音声ファイルを元に音声認識してプロジェクトファイルを生成することができます。
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri)
+- [ダウンロードページ](https://github.com/akazdayo/AutoYukkuri/releases/)
 
 ### YMovieHelper
 ![スクリーンショット](index_1001.png)
@@ -310,6 +317,12 @@ Copyright (c) 2022 nohoshio
 利用条件等に関してLMROIDアプリ内のヘルプをご確認ください  
 https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
 
+### OpenAI TTS 外部連携API
+Copyright (c) OpenAI
+利用には別途APIキーが必要です。
+利用条件等に関しては[Usage policies](https://openai.com/policies/usage-policies)をご確認ください。
+https://openai.com/
+
 ### SHAREVOX 外部連携API
 Copyright (c) 2022 y-chan  
 利用には別途SHAREVOXのインストールが必要です。  
@@ -333,6 +346,12 @@ Copyright (c) 2021 Hiroshiba Kazuyuki
 利用には別途VOICEVOXのインストールが必要です。  
 利用条件等に関してはVOICEVOXアプリ内のヘルプをご確認ください。  
 https://voicevox.hiroshiba.jp/
+
+### VOICEVOX Nemo 外部連携API
+Copyright (c) 2021 Hiroshiba Kazuyuki  
+利用には別途VOICEVOXとVOICEVOX Nemoのインストールが必要です。  
+利用条件等に関してはVOICEVOXアプリ内のヘルプをご確認ください。  
+https://voicevox.hiroshiba.jp/nemo/
 
 ### よみてのれゐ 外部連携API
 Copyright (c) 2022 Yomite Program  
