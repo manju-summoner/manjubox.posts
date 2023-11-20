@@ -226,6 +226,7 @@ YMM4に機能を追加するプラグインの一覧です。
 | [疑似不透明度プラグイン](https://benikazura.booth.pm/items/5156386) | [べにかずら](https://twitter.com/benikazura_X) | 背景に単色化画像を重ねながら不透明度を調整できる映像エフェクトです |
 | [Unmultプラグイン](https://github.com/mes51/YMM_Unmult/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 黒背景素材を透過素材に変換する映像エフェクトです |
 | [描画変換プラグイン](https://benikazura.booth.pm/items/5199154) | [べにかずら](https://twitter.com/benikazura_X) | 拡大率、回転角、不透明度、左右反転をエフェクトを適用したタイミングで処理する映像エフェクトです |
+| [レターボックスプラグイン](https://benikazura.booth.pm/items/5269715) | [べにかずら](https://twitter.com/benikazura_X) | 図形オブジェクトにレターボックス（画面上下や左右の黒帯）を追加する映像エフェクトです |
 
 ## Windows拡張機能
 Windowsの拡張機能をインストールすると、より多くのファイルを読み込めるようになります。
