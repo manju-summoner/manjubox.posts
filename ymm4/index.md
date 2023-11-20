@@ -221,12 +221,12 @@ YMM4に機能を追加するプラグインの一覧です。
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
-| [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
-| [グリッチプラグイン](https://benikazura.booth.pm/items/5126133) | [べにかずら](https://twitter.com/benikazura_X) | グリッチ効果（画面が乱れたような効果）を付与する映像エフェクトです |
-| [疑似不透明度プラグイン](https://benikazura.booth.pm/items/5156386) | [べにかずら](https://twitter.com/benikazura_X) | 背景に単色化画像を重ねながら不透明度を調整できる映像エフェクトです |
-| [Unmultプラグイン](https://github.com/mes51/YMM_Unmult/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 黒背景素材を透過素材に変換する映像エフェクトです |
-| [描画変換プラグイン](https://benikazura.booth.pm/items/5199154) | [べにかずら](https://twitter.com/benikazura_X) | 拡大率、回転角、不透明度、左右反転をエフェクトを適用したタイミングで処理する映像エフェクトです |
 | [レターボックスプラグイン](https://benikazura.booth.pm/items/5269715) | [べにかずら](https://twitter.com/benikazura_X) | 図形オブジェクトにレターボックス（画面上下や左右の黒帯）を追加する映像エフェクトです |
+| [描画変換プラグイン](https://benikazura.booth.pm/items/5199154) | [べにかずら](https://twitter.com/benikazura_X) | 拡大率、回転角、不透明度、左右反転をエフェクトを適用したタイミングで処理する映像エフェクトです |
+| [Unmultプラグイン](https://github.com/mes51/YMM_Unmult/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 黒背景素材を透過素材に変換する映像エフェクトです |
+| [疑似不透明度プラグイン](https://benikazura.booth.pm/items/5156386) | [べにかずら](https://twitter.com/benikazura_X) | 背景に単色化画像を重ねながら不透明度を調整できる映像エフェクトです |
+| [グリッチプラグイン](https://benikazura.booth.pm/items/5126133) | [べにかずら](https://twitter.com/benikazura_X) | グリッチ効果（画面が乱れたような効果）を付与する映像エフェクトです |
+| [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
 
 ## Windows拡張機能
 Windowsの拡張機能をインストールすると、より多くのファイルを読み込めるようになります。
