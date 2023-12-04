@@ -221,6 +221,7 @@ YMM4に機能を追加するプラグインの一覧です。
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
+| [点滅プラグイン](https://github.com/68B09/YMM4Plugins) | [ZZO](https://twitter.com/MB68B09) | 指定秒数で表示と非表示を繰り返す映像エフェクトです |
 | [レターボックスプラグイン](https://benikazura.booth.pm/items/5269715) | [べにかずら](https://twitter.com/benikazura_X) | 図形オブジェクトにレターボックス（画面上下や左右の黒帯）を追加する映像エフェクトです |
 | [描画変換プラグイン](https://benikazura.booth.pm/items/5199154) | [べにかずら](https://twitter.com/benikazura_X) | 拡大率、回転角、不透明度、左右反転をエフェクトを適用したタイミングで処理する映像エフェクトです |
 | [Unmultプラグイン](https://github.com/mes51/YMM_Unmult/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 黒背景素材を透過素材に変換する映像エフェクトです |
@@ -398,6 +399,10 @@ https://github.com/Ruslan-B/FFmpeg.AutoGen
 ### Google.Cloud.TextToSpeech.V1 / Apache 2.0
 © 2020 Google LLC All rights reserved.  
 https://github.com/googleapis/google-cloud-dotnet
+
+### Hash without Sine / MIT License
+Copyright (c)2014 David Hoskins.
+https://www.shadertoy.com/view/4djSRW
 
 ### IPADic
 Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology. All Rights Reserved.  
