@@ -167,6 +167,12 @@ Windowsにデフォルトで搭載されています。
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### AoiSupport
+![スクリーンショット](index_4020.png)
+[Mrs.ニードルマウス](https://twitter.com/Mrs_NeedleMouse)さんによって開発されている、動画制作支援ツールです。  
+各種音声合成ソフトでの音声を生成し、YMM4へ自動的に読み込ませることが可能です。
+- [AoiSupport](https://aoi-chan.moe/aoisupport/)
+
 ### DisNOTE
 [ろじろじ](https://twitter.com/roji2)さんによって開発されている、Discordの録音データからセリフを書き出す+書き起こしできるツールです。  
 YMM4用のプロジェクトファイルの出力機能も実装されています。
