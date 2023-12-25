@@ -1,6 +1,8 @@
 
 - key: /tools/
   index:
+  - page: ../ai_sister_ai_chan
+  - page: PsdFileWoBarasuYatsu
+  - page: ../ymm3
   - page: YukkuResampler
   - page: YukkuriTmBot
-  - page: PsdFileWoBarasuYatsu

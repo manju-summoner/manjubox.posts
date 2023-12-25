@@ -2,8 +2,7 @@
 - key: /
   index:
   - page: ymm4
-  - page: ymm3
-  - page: ai_sister_ai_chan
+  - page: tools/PsdFileWoBarasuYatsu
   - page: tools
   - page: memo
   - page: social
