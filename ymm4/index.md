@@ -227,6 +227,8 @@ YMM4に機能を追加するプラグインの一覧です。
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
+| [スクロールプラグイン](https://benikazura.booth.pm/items/5370333) | [べにかずら](https://twitter.com/benikazura_X) | 一定の方向に繰り返しスクロールを行う映像エフェクトを追加する映像エフェクトです |
+| [YukkuriMovieMaker4SoVitsSvcFork](https://github.com/34j/YukkuriMovieMaker4SoVitsSvcFork) | [34j](https://github.com/34j) | so-vits-svc-forkを使用してボイスチェンジャーを適用する音声エフェクト |
 | [点滅プラグイン](https://github.com/68B09/YMM4Plugins) | [ZZO](https://twitter.com/MB68B09) | 指定秒数で表示と非表示を繰り返す映像エフェクトです |
 | [レターボックスプラグイン](https://benikazura.booth.pm/items/5269715) | [べにかずら](https://twitter.com/benikazura_X) | 図形オブジェクトにレターボックス（画面上下や左右の黒帯）を追加する映像エフェクトです |
 | [描画変換プラグイン](https://benikazura.booth.pm/items/5199154) | [べにかずら](https://twitter.com/benikazura_X) | 拡大率、回転角、不透明度、左右反転をエフェクトを適用したタイミングで処理する映像エフェクトです |
