@@ -6,9 +6,6 @@ tags: [小道具]
 ## 概要
 Psdファイルの各レイヤーをpng画像として出力するツールです。
 
-# Psdファイルをバラすやつ
-Psdファイルの各レイヤーをpng画像として出力します。
-
 # ダウンロード
 <Download url="https://object-storage.tyo1.conoha.io/v1/nc_4fac3ef0e6d843249e0ab2f1fc3e8f85/public/PsdFileWoBarasuYatsu.zip">Psdファイルをバラすやつをダウンロード</Download>
 
