@@ -6,8 +6,8 @@ excerpt: ゆっくり実況プレイ動画用編集支援ソフト「ゆっく�
 ---
 
 > **Note**
-> 後継となる[ゆっくりMovieMaker4](../ymm4/index.md)が正式リリースされました。  
-> 今後、YMM3の更新及びサポートは行われないため、[YMM4](../ymm4/index.md)への移行をご検討ください。
+> 後継となる[ゆっくりMovieMaker4](../ymm4/index.md)が正式リリースしました。  
+> YMM3のサポートは終了しています。[YMM4](../ymm4/index.md)への移行をご検討ください。
 
 <NiconicoPlayer id="sm20953272" title="ゆっくり実況がすごく簡単に作れるようになった【ゆっくりMovieMaker3】"/>
 
