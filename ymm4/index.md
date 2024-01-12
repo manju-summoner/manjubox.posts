@@ -227,6 +227,7 @@ YMM4に機能を追加するプラグインの一覧です。
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
+| [Volumetric FractalNoise](https://github.com/mes51/YMM_VolumetricFractalNoise/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 3Dのフラクタルノイズを生成する映像エフェクトです |
 | [スクロールプラグイン](https://benikazura.booth.pm/items/5370333) | [べにかずら](https://twitter.com/benikazura_X) | 一定の方向に繰り返しスクロールを行う映像エフェクトを追加する映像エフェクトです |
 | [YukkuriMovieMaker4SoVitsSvcFork](https://github.com/34j/YukkuriMovieMaker4SoVitsSvcFork) | [34j](https://github.com/34j) | so-vits-svc-forkを使用してボイスチェンジャーを適用する音声エフェクト |
 | [点滅プラグイン](https://github.com/68B09/YMM4Plugins) | [ZZO](https://twitter.com/MB68B09) | 指定秒数で表示と非表示を繰り返す映像エフェクトです |
