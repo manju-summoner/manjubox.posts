@@ -4,13 +4,20 @@ date: 2023-03-11
 tags: [その他]
 ---
 
-## Twitter
+## X
 - [@manju_summoner](https://twitter.com/manju_summoner)
 
 ## ActivityPub (Fediverse, Mastodon, Misskey, etc.)
-- [@manju_summoner@misskey.io](https://misskey.io/@manju_summoner)
+- [@manju_summoner@misskey.io（未稼働）](https://misskey.io/@manju_summoner)
 - [@manju_summoner@fedibird.com（サブ・未稼働）](https://fedibird.com/@manju_summoner)
 - [@manju_summoner@pawoo.net（イラスト用・未稼働）](https://pawoo.net/@manju_summoner)
+
+## Bluesky
+- [@manju-summoner.manjubox.net（未稼働）](https://bsky.app/profile/manju-summoner.manjubox.net)
+- [フィード: YMM4関連ポスト](https://bsky.app/profile/did:plc:qxjqpgxkjcwza2sbrglegqaw/feed/aaaigudgyewge)
+
+## Threads
+- [@manju_summoner（未稼働）](https://www.threads.net/@manju_summoner)
 
 ## 開発者支援
 - [PixivFANBOX](https://manju-summoner.fanbox.cc/)
