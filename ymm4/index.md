@@ -227,6 +227,8 @@ YMM4に機能を追加するプラグインの一覧です。
 
 | 名前・配布元 | 開発者 | 説明 |
 | --- | --- | --- | --- |
+| [YMMプラグイン集vol.1](https://github.com/SomeTea01/YMM4PluginPack_vol1/releases) | [Sometea_1024](https://twitter.com/bluesky_1024) | 正多角形、モールス信号生成エフェクト、音声波形生成エフェクト、円運動エフェクト、コマ落ちエフェクト、ポスタリゼーションエフェクトを含むプラグインパックです。 |
+| [数値テキストプラグイン](https://github.com/Piyo-creator/YMM4PpS/releases/) | [ぴよ](https://twitter.com/Piyo_creator) | カンマ区切りや小数点の任意の桁数表示に対応した数値表示プラグインです |
 | [Volumetric FractalNoise](https://github.com/mes51/YMM_VolumetricFractalNoise/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 3Dのフラクタルノイズを生成する映像エフェクトです |
 | [スクロールプラグイン](https://benikazura.booth.pm/items/5370333) | [べにかずら](https://twitter.com/benikazura_X) | 一定の方向に繰り返しスクロールを行う映像エフェクトを追加する映像エフェクトです |
 | [YukkuriMovieMaker4SoVitsSvcFork](https://github.com/34j/YukkuriMovieMaker4SoVitsSvcFork) | [34j](https://github.com/34j) | so-vits-svc-forkを使用してボイスチェンジャーを適用する音声エフェクト |
