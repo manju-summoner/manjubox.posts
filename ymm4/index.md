@@ -225,20 +225,7 @@ YMM4に機能を追加するプラグインの一覧です。
   - [GitHub](https://github.com/topics/ymm4-plugin)
   - [BOOTH](https://booth.pm/ja/items?tags%5B%5D=YMM4Plugin)
 
-| 名前・配布元 | 開発者 | 説明 |
-| --- | --- | --- | --- |
-| [YMMプラグイン集vol.1](https://github.com/SomeTea01/YMM4PluginPack_vol1/releases) | [Sometea_1024](https://twitter.com/bluesky_1024) | 正多角形、モールス信号生成エフェクト、音声波形生成エフェクト、円運動エフェクト、コマ落ちエフェクト、ポスタリゼーションエフェクトを含むプラグインパックです。 |
-| [数値テキストプラグイン](https://github.com/Piyo-creator/YMM4PpS/releases/) | [ぴよ](https://twitter.com/Piyo_creator) | カンマ区切りや小数点の任意の桁数表示に対応した数値表示プラグインです |
-| [Volumetric FractalNoise](https://github.com/mes51/YMM_VolumetricFractalNoise/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 3Dのフラクタルノイズを生成する映像エフェクトです |
-| [スクロールプラグイン](https://benikazura.booth.pm/items/5370333) | [べにかずら](https://twitter.com/benikazura_X) | 一定の方向に繰り返しスクロールを行う映像エフェクトを追加する映像エフェクトです |
-| [YukkuriMovieMaker4SoVitsSvcFork](https://github.com/34j/YukkuriMovieMaker4SoVitsSvcFork) | [34j](https://github.com/34j) | so-vits-svc-forkを使用してボイスチェンジャーを適用する音声エフェクト |
-| [点滅プラグイン](https://github.com/68B09/YMM4Plugins) | [ZZO](https://twitter.com/MB68B09) | 指定秒数で表示と非表示を繰り返す映像エフェクトです |
-| [レターボックスプラグイン](https://benikazura.booth.pm/items/5269715) | [べにかずら](https://twitter.com/benikazura_X) | 図形オブジェクトにレターボックス（画面上下や左右の黒帯）を追加する映像エフェクトです |
-| [描画変換プラグイン](https://benikazura.booth.pm/items/5199154) | [べにかずら](https://twitter.com/benikazura_X) | 拡大率、回転角、不透明度、左右反転をエフェクトを適用したタイミングで処理する映像エフェクトです |
-| [Unmultプラグイン](https://github.com/mes51/YMM_Unmult/releases/) | [肉(mes)](https://twitter.com/mes_deleted_n) | 黒背景素材を透過素材に変換する映像エフェクトです |
-| [疑似不透明度プラグイン](https://benikazura.booth.pm/items/5156386) | [べにかずら](https://twitter.com/benikazura_X) | 背景に単色化画像を重ねながら不透明度を調整できる映像エフェクトです |
-| [グリッチプラグイン](https://benikazura.booth.pm/items/5126133) | [べにかずら](https://twitter.com/benikazura_X) | グリッチ効果（画面が乱れたような効果）を付与する映像エフェクトです |
-| [クソでか画像縮小プラグイン](https://twitter.com/yukkuri_cs_/status/1701509570487812178) | [ゆっくりコンピュータサイエンス](https://twitter.com/yukkuri_cs_) | 1920x1080を超えるサイズの画像を予め縮小した状態で読み込むプラグインです。 |
+<YMM4Plugins max="9999" />
 
 ## Windows拡張機能
 Windowsの拡張機能をインストールすると、より多くのファイルを読み込めるようになります。
