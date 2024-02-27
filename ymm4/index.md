@@ -164,6 +164,11 @@ Windowsにデフォルトで搭載されています。
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### RPPtoEXO v2.0
+[がれっく](https://twitter.com/Garec_)さんによって開発されている音MAD補助用プログラムです。  
+REAPERのプロジェクトファイル上のメディアアイテムの位置やMIDIファイルの音符情報をもとにYMM4用のテンプレートを生成する機能が実装されています。  
+- [RPPtoEXO v2.0](https://scrapbox.io/Garech/RPPtoEXO_v2.0)
+
 ### AoiSupport
 ![スクリーンショット](index_4020.png)
 [Mrs.ニードルマウス](https://twitter.com/Mrs_NeedleMouse)さんによって開発されている、動画制作支援ツールです。  
