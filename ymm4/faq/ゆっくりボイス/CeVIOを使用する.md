@@ -8,15 +8,8 @@ keywords: [CeVIO, チェビオ]
 ![スクリーンショット](CeVIOを使用する_5641.png)
 有料の音声合成ソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。
-### CeVIO AI
-<CeVIOCards limit="10"/>
 
-### CeVIO Creative Studio
-<Flex>
-    <AmazonCard item="B01N2JJ0DI"/>
-    <AmazonCard item="B01MXNYBFM"/>
-    <AmazonCard item="B01NB9XW1L"/>
-</Flex>
+<CeVIOCards limit="10"/>
 
 ## 利用方法
 1. 利用したいCeVIO AI / CeVIO CS を購入し、インストールする
