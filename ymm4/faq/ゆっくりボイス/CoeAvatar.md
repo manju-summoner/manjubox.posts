@@ -9,11 +9,7 @@ keywords: [CoeAvatar, coestation, コエステーション, コエステ, コエ
 
 - [CoeAvatar](https://coeavatar.com/)
 
-<Flex>
-    <DLsiteCard store="soft" item="VJ015358"/>
-    <DLsiteCard store="soft" item="VJ015438"/>
-    <DLsiteCard store="soft" item="VJ015586"/>
-</Flex>
+<CoeAvatarCards/>
 
 ## CoeAvatarの利用方法
 1. [CoeAvatar](https://coeavatar.com/)のキャラクターを購入し、coestationに登録する
