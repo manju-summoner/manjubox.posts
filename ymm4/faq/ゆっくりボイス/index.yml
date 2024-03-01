@@ -20,6 +20,7 @@
   - page: LMROID
   - page: OpenAI_TTS
   - page: SHAREVOX
+  - page: Style-Bert-VITS2
   - page: TALQu
   - page: VOICEPEAK
   - page: VOICEVOXを使用する

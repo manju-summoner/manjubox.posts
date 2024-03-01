@@ -118,6 +118,11 @@ SAPIに対応している音声合成エンジンを利用可能です。
 Windowsにデフォルトで搭載されています。  
 - [SAPIの声質を追加する](./faq/ゆっくりボイス/SAPI5の声質を追加する.md)
 
+### Style-Bert-VITS2
+Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)によって開発されている音声合成ソフトです。
+外部連携APIを使用し、YMM4から直接音声を生成できます。
+- [Style-Bert-VITS2の音声を利用する](./faq/ゆっくりボイス/Style-Bert-VITS2.md)
+
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
 [Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
