@@ -118,16 +118,16 @@ SAPIに対応している音声合成エンジンを利用可能です。
 Windowsにデフォルトで搭載されています。  
 - [SAPIの声質を追加する](./faq/ゆっくりボイス/SAPI5の声質を追加する.md)
 
-### Style-Bert-VITS2
-Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)によって開発されている音声合成ソフトです。
-外部連携APIを使用し、YMM4から直接音声を生成できます。
-- [Style-Bert-VITS2の音声を利用する](./faq/ゆっくりボイス/Style-Bert-VITS2.md)
-
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
 [Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
 ※細かい利用規約は[SHAREVOX公式サイト](https://www.sharevox.app/)をご確認ください。
 - [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
+
+### Style-Bert-VITS2
+Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)によって開発されている音声合成ソフトです。
+外部連携APIを使用し、YMM4から直接音声を生成できます。
+- [Style-Bert-VITS2の音声を利用する](./faq/ゆっくりボイス/Style-Bert-VITS2.md)
 
 ### TALQu3 PRO
 ![スクリーンショット](index_0719.png)
@@ -340,6 +340,12 @@ Copyright (c) 2022 y-chan
 利用には別途SHAREVOXのインストールが必要です。  
 利用条件等に関してSHAREVOXアプリ内のヘルプをご確認ください  
 https://www.sharevox.app/
+
+### Style-Bert-VITS2 外部連携API
+Style-Bert-VITS2 Copyright (c) litagin02
+Bert-VITS2 Copyright (c) fishaudio
+利用には別途Style-Bert-VITS2のインストールが必要です。
+https://github.com/fishaudio/Bert-VITS2
 
 ### TALQu3 PRO 外部連携API
 Copyright (c) Haruqa
