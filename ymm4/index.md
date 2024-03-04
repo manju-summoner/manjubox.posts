@@ -125,7 +125,7 @@ Windowsにデフォルトで搭載されています。
 - [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
 
 ### Style-Bert-VITS2
-Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)によって開発されている音声合成ソフトです。
+Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによって開発されている音声合成ソフトです。
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [Style-Bert-VITS2の音声を利用する](./faq/ゆっくりボイス/Style-Bert-VITS2.md)
 
