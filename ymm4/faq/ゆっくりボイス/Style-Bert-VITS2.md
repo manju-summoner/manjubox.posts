@@ -31,7 +31,7 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんが開発�
 1. Style-Bert-VITS2を起動中の場合は終了させる
 1. Style-Bert-VITS2のユーザーモデルをダウンロードし、任意の場所に展開（解凍）する
 ![スクリーンショット](Style-Bert-VITS2_2413.png)
-1. *01_Freeset\RinneElu_TTSfree*フォルダ内のファイルを*Style-Bert-VITS2\Style-Bert-VITS2\model_assets\RinneElu*フォルダにコピーする
+1. *01_Freeset\RinneElu_TTSfree*フォルダ内のファイル*config.json*、*RinneElu_s05000.safetensors*、*style_vectors.npy*を*Style-Bert-VITS2\Style-Bert-VITS2\model_assets\RinneElu*フォルダにコピーする
 1. *Editor.bat*を実行し、Style-Bert-VITS2を起動する
 1. ゆっくりMovieMaker4を起動する
 1. *ファイル(F)*→*設定*→*Style-Bert-VITS2*を開き、キャラクター一覧の更新ボタンをクリックする
