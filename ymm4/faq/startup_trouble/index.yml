@@ -1,6 +1,7 @@
 
 - key: /ymm4/faq/startup_trouble/
   index:
+  - page: install
   - page: ゆっくりmoviemaker4が起動しない
   - page: 「MicrosoftStoreでアプリを検索しますか？」と表示される
   - page: 「windowsによってpcが保護されました」と表示される
