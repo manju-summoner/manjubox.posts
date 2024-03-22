@@ -11,8 +11,7 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんが開発�
 
 ## 利用方法
 1. [インストール方法](https://github.com/litagin02/Style-Bert-VITS2?tab=readme-ov-file#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)の指示に従ってStyle-Bert-VITS2をインストールする
-1. Style-Bert-VITS2が起動するため、一旦終了させる
-1. Style-Bert-VITS2フォルダを開き、*Editor.bat*を実行する
+1. インストールが完了すると、自動的にStyle-Bert-VITS2が起動します。次回以降は*Editor.bat*を実行して起動してください。
 1. ゆっくりMovieMaker4を起動する
 1. *ファイル(F)*→*設定*→*Style-Bert-VITS2*を開く
 1. *接続URL*を設定し、キャラクター欄の更新ボタンをクリックする
