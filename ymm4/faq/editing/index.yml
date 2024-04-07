@@ -8,6 +8,7 @@
   - page: item-from-subtitle-file
   - page: フォントが表示されない
   - page: decoder
+  - page: video-no-sound-or-mic-only
   - page: プロジェクト内の動画や画像が表示されない
   - page: 動画を分割するとカクつく
   - page: プレビュー画面がフリーズする

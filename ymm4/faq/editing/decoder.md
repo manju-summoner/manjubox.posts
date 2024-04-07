@@ -35,3 +35,6 @@ keywords: [動画, 音声, 画像]
 
 ### Webp画像が表示されない場合
 [Webp 画像拡張機能](https://www.microsoft.com/ja-jp/p/webp-%E7%94%BB%E5%83%8F%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD/9pg2dk419drg)をインストールする
+
+## その他
+- [動画の音声が再生されない、またはマイクの音声のみが再生される](./video-no-sound-or-mic-only.md)
