@@ -318,8 +318,8 @@ Copyright (c) 2022 いたほび
 http://itvoice.starfree.jp/
 
 ### Koemotion / Koeiromap 外部連携API
-Copyright © 2022 rinna株式会社 - All Rights Reserved.
-利用には別途Koemotion / KoeiromapのAPIキーが必要です。
+Copyright © 2022 rinna株式会社 - All Rights Reserved.  
+利用には別途Koemotion / KoeiromapのAPIキーが必要です。  
 利用条件等に関しては[Koemotion公式サイト](https://koemotion.rinna.co.jp/)をご確認ください。  
 https://koemotion.rinna.co.jp/
 
@@ -330,9 +330,9 @@ Copyright (c) 2022 nohoshio
 https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
 
 ### OpenAI TTS 外部連携API
-Copyright (c) OpenAI
-利用には別途APIキーが必要です。
-利用条件等に関しては[Usage policies](https://openai.com/policies/usage-policies)をご確認ください。
+Copyright (c) OpenAI  
+利用には別途APIキーが必要です。  
+利用条件等に関しては[Usage policies](https://openai.com/policies/usage-policies)をご確認ください。  
 https://openai.com/
 
 ### SHAREVOX 外部連携API
@@ -342,14 +342,14 @@ Copyright (c) 2022 y-chan
 https://www.sharevox.app/
 
 ### Style-Bert-VITS2 外部連携API
-Style-Bert-VITS2 Copyright (c) litagin02
-Bert-VITS2 Copyright (c) fishaudio
-利用には別途Style-Bert-VITS2のインストールが必要です。
+Style-Bert-VITS2 Copyright (c) litagin02  
+Bert-VITS2 Copyright (c) fishaudio  
+利用には別途Style-Bert-VITS2のインストールが必要です。  
 https://github.com/fishaudio/Bert-VITS2
 
 ### TALQu3 PRO 外部連携API
-Copyright (c) Haruqa
-利用には別途TALQu3 PROのインストールが必要です。
+Copyright (c) Haruqa  
+利用には別途TALQu3 PROのインストールが必要です。  
 利用条件等に関してはTALQu3 PROアプリ内のヘルプをご確認ください。  
 https://haruqa.github.io/TALQu/
 
@@ -386,7 +386,7 @@ https://github.com/dotnet/runtime
 https://github.com/aws/aws-sdk-net/
 
 ### CsvHelper / MS-PL
-© 2009-2021 Josh Close
+© 2009-2021 Josh Close  
 https://joshclose.github.io/CsvHelper/
 
 ### CsWin32 / MIT License
@@ -412,7 +412,7 @@ https://github.com/Ruslan-B/FFmpeg.AutoGen
 https://github.com/googleapis/google-cloud-dotnet
 
 ### Hash without Sine / MIT License
-Copyright (c)2014 David Hoskins.
+Copyright (c)2014 David Hoskins.  
 https://www.shadertoy.com/view/4djSRW
 
 ### IPADic
@@ -436,11 +436,11 @@ Copyright (c) 2002-2021 Math.NET
 https://github.com/mathnet/mathnet-numerics
 
 ### Microsoft.CognitiveServices.Speech
-Copyright (c) Microsoft Corporation. All rights reserved.
+Copyright (c) Microsoft Corporation. All rights reserved.  
 https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech/
 
 ### NCalcSync / MIT License
-Copyright (c) 2011 Sebastien Ros
+Copyright (c) 2011 Sebastien Ros  
 https://github.com/ncalc/ncalc
 
 ### NMeCab / LGPL v2.1
@@ -455,7 +455,7 @@ Copyright (c) 2018 neuecc, xin9le, okazuki
 https://github.com/runceel/ReactiveProperty
 
 ### SharpCompress / MIT License
-Copyright (c) 2014  Adam Hathcock  
+Copyright (c) 2014 Adam Hathcock  
 https://github.com/adamhathcock/sharpcompress
 
 ### SharpGenTools / MIT License
