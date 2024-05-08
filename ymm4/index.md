@@ -377,7 +377,14 @@ Copyright (c) 2022 Yomite Program
 利用条件に関しては同梱のテキストファイルをご確認ください。  
 https://www.dlsite.com/home/dlaf/=/t/s/link/work/aid/manju/id/RJ376955.html
 
-### .NET Runtime / MIT License
+### .NET Runtime, Libraries / MIT License
+ - Microsoft.Xaml.Behaviors.Wpf
+ - NETStandard.Library
+ - System.Linq.Expressions
+ - System.Management
+ - System.ServiceProcess.ServiceController
+ - System.Text.Encoding.CodePages
+
 Copyright (c) .NET Foundation and Contributors  
 https://github.com/dotnet/runtime
 
@@ -439,9 +446,29 @@ https://github.com/mathnet/mathnet-numerics
 Copyright (c) Microsoft Corporation. All rights reserved.  
 https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech/
 
+### MP3Sharp / LGPL v3
+Copyright (c) ZaneDubya  
+Copyright (c) Nihlus  
+https://github.com/Nihlus/MP3Sharp
+
+### NAudio / MIT License
+Copyright 2020 Mark Heath  
+https://github.com/naudio/NAudio
+
 ### NCalcSync / MIT License
 Copyright (c) 2011 Sebastien Ros  
 https://github.com/ncalc/ncalc
+
+### NMeCab / LGPL v2.1
+NMeCab / Copyright(C) Tsuyoshi Komuta  
+MeCab / Copyright(C) Taku Kudo and Nippon Telegraph and Telephone Corporation  
+MeCab.DotNet / Copyright(C) Kouji Matsui  
+https://ja.osdn.net/projects/nmecab/  
+http://taku910.github.io/mecab/
+
+### NWaves / MIT License
+Copyright (c) 2017 Tim  
+https://github.com/ar1st0crat/NWaves
 
 ### OpenCV / Apache License 2.0
 Copyright (c) OpenCV team  
@@ -451,12 +478,9 @@ https://opencv.org/
 Copyright 2008 shimat  
 https://github.com/shimat/opencvsharp
 
-### NMeCab / LGPL v2.1
-NMeCab / Copyright(C) Tsuyoshi Komuta  
-MeCab / Copyright(C) Taku Kudo and Nippon Telegraph and Telephone Corporation  
-MeCab.DotNet / Copyright(C) Kouji Matsui  
-https://ja.osdn.net/projects/nmecab/  
-http://taku910.github.io/mecab/
+### PsdParse / MIT License
+Copyright (c) 2022 ManjuSummoner  
+https://github.com/manju-summoner/PsdParser
 
 ### ReactiveProperty / MIT License
 Copyright (c) 2018 neuecc, xin9le, okazuki  
