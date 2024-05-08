@@ -443,6 +443,14 @@ https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech/
 Copyright (c) 2011 Sebastien Ros  
 https://github.com/ncalc/ncalc
 
+### OpenCV / Apache License 2.0
+Copyright (c) OpenCV team  
+https://opencv.org/
+
+### OpenCVSharp / Apache License 2.0
+Copyright 2008 shimat  
+https://github.com/shimat/opencvsharp
+
 ### NMeCab / LGPL v2.1
 NMeCab / Copyright(C) Tsuyoshi Komuta  
 MeCab / Copyright(C) Taku Kudo and Nippon Telegraph and Telephone Corporation  
