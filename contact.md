@@ -16,7 +16,7 @@ tags: [その他]
 - [ゆっくりMovieMaker4サポート - ChatGPT](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto)
 
 ## メールフォーム
-事前に <Address acc="manju_summoner" dmy="-kokowosakujo-" dmn="manjubox.net"/> からのメールを受信できるよう設定をお願いします。  
+事前に`manjubox.net`からのメールを受信できるよう設定をお願いします。  
 受信設定方法：[ドコモ](https://www.nttdocomo.co.jp/info/spam_mail/spmode/domain/index.html) / [au](https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/domain/) / [ソフトバンク](https://www.softbank.jp/mobile/support/mail/antispam/email-i/white/) / [楽天モバイル](https://network.mobile.rakuten.co.jp/guide/rakumail/filter/)
 
 <ContactForm/>
