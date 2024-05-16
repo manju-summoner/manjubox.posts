@@ -5,7 +5,8 @@ tags: [YMM4]
 excerpt: ゆっくり実況プレイ動画用動画編集ソフト「ゆっくりMovieMaker4」の配布ページです
 ---
 
-![スクリーンショット](index-1.png)
+<YMM4Screenshot/>
+
 ゆっくり実況プレイ動画用の動画編集ソフト「ゆっくりMovieMaker4」の配布ページです。
 YMM3の後継バージョンで、動画出力機能、倍速プレビュー、テンプレート機能等、多くの新機能を実装している他、以前と比べてプレビューの正確性・安定性が向上しています。
 
@@ -168,6 +169,11 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
+
+### MaterialFinder
+[けやき依音](https://twitter.com/Keyaki_Ion)さんによって開発されているツールです。  
+YMM4のプロジェクトファイルから使用している素材ファイルのパスを一括で取得することができます。
+- [Material_Finder](https://github.com/KeyakiIon/Material_Finder)
 
 ### RPPtoEXO v2.0
 [がれっく](https://twitter.com/Garec_)さんによって開発されている音MAD補助用プログラムです。  
