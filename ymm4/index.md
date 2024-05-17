@@ -436,6 +436,11 @@ http://taku910.github.io/mecab/
 Copyright (c) 2007 James Newton-King  
 https://www.newtonsoft.com/json
 
+### KawaiiLogos
+Copyright (c) 2024 さわらつき
+https://twitter.com/sawaratsuki1004
+https://github.com/SAWARATSUKI/KawaiiLogos
+
 ### LZMA SDK / Public domain
 https://www.7-zip.org/sdk.html
 

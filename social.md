@@ -8,7 +8,7 @@ tags: [その他]
 > この一覧に存在しないアカウントはなりすましの可能性があります。ご注意ください。  
 
 ## X
-- [@manju_summoner](https://twitter.com/manju_summoner)
+- [@manju_summoner](https://x.com/manju_summoner)
 
 ## ActivityPub (Fediverse, Mastodon, Misskey, etc.)
 - [@manju_summoner@misskey.io（未稼働）](https://misskey.io/@manju_summoner)
