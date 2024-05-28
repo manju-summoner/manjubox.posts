@@ -162,10 +162,10 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 日本の同人活動でのみ商用利用可能なライセンスが設定されています。  
 - [ゆっくりMovieMaker4でよみてのれゐを使用する](./faq/ゆっくりボイス/YomiteProgram.md)
 
-### 唄詠
-![スクリーンショット](index_3228.png)
+### 唄詠２
+![スクリーンショット](index_0616.png)
 [SHINTA](https://twitter.com/shinta0806)さんによって開発されている、UTAU音源を使用したテキスト音声合成ソフトウェアです。  
-- [唄詠 | 翔星ワールド](http://shinta.coresv.com/software/utayomi_jpn/)
+- [唄詠 | 翔星ワールド](https://shinta.coresv.com/software/utayomi2-ja-jp/)
 
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
@@ -415,10 +415,6 @@ https://github.com/manju-summoner/DynamicAero2
 ### FFmpeg / LGPL v3
 (c) 2000-2020 the FFmpeg developers  
 https://ffmpeg.org/
-
-### FFmpeg.AutoGen / LGPL v3
-Copyright © Ruslan Balanukhin 2020 All rights reserved.  
-https://github.com/Ruslan-B/FFmpeg.AutoGen
 
 ### Google.Cloud.TextToSpeech.V1 / Apache 2.0
 © 2020 Google LLC All rights reserved.  
