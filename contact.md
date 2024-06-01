@@ -12,7 +12,7 @@ tags: [その他]
 ## ChatGPTに質問する
 ゆっくりMovieMaker4に特化したGPTsを公開しています。  
 質問を投げかけると、それに対応したよくある質問ページを回答します。  
-※ 利用には別途ChatGPT Plusの契約が必要です
+※ 無料版を含むすべてのChatGPTユーザーでご利用いただけます。
 - [ゆっくりMovieMaker4サポート - ChatGPT](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto)
 
 ## メールフォーム
