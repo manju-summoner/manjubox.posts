@@ -202,7 +202,7 @@ YMM4用のプロジェクトファイルの出力機能も実装されていま�
 [だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
 csv形式の台本ファイルを元に、YMM4用のプロジェクトファイルを生成することが出来ます。  
 立ち絵の表情や動画の切り替えにも対応しています。
-- [YMovieHelper](https://ymovie-helper.vercel.app)
+- [YMovieHelper](https://github.com/itkmaingit/YMovieHelperLocal)
 
 ### KuchiPaku
 ![スクリーンショット](index_4407.png)
@@ -440,9 +440,11 @@ https://github.com/SAWARATSUKI/KawaiiLogos
 ### LZMA SDK / Public domain
 https://www.7-zip.org/sdk.html
 
-### Material Design Icons / SIL Open Font License, Version 1.1
-Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/), with Reserved Font Name Material Design Icons.  
-Copyright (c) 2014, Google (http://www.google.com/design/) uses the license at https://github.com/google/material-design-icons/blob/master/LICENSE  
+### Material Design Icons
+#### Icons / Apache 2.0
+#### Fonts / Apache 2.0
+#### Code / Apache 2.0
+Copyright (c) 2024 Pictogrammers
 https://materialdesignicons.com/
 
 ### Math.NET Numerics / MIT License
@@ -508,6 +510,11 @@ https://unidic.ninjal.ac.jp/
 ### Vortice.Windows / MIT License
 Copyright (c) 2019 Amer Koleci and Vortice contributors.  
 https://github.com/amerkoleci/Vortice.Windows
+
+### うずらフォント
+(C) 2005 AZUSA_H ALL RIGHTS RESERVED.  
+http://azukifont.com/index.html  
+YMM4のロゴに使用しています。
 
 ## 謝辞
 過去、以下の方々にYMM4用の外部ツールを公開していただいていました。  
