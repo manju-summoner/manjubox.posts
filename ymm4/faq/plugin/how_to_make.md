@@ -38,6 +38,12 @@ tags: [YMM4]
    ※ YMM4フォルダ内に存在しないdllを参照している場合、そのdllもコピーしてください。
 - 参考: [プラグインを使用する](./how_to_use.md)
 
+## プラグインの配布用パッケージ化
+プラグインを`.ymme`形式で配布することにより、ワンクリックでプラグインをインストールできるようになります。
+1. 作成したプラグインをzipで圧縮する
+1. zipファイルの拡張子を`.ymme`に変更する
+1. `.ymme`ファイルを配布する
+
 ## リポジトリのトピック
 プラグインをGitHubで公開する場合、検索性向上のためリポジトリの[Topics欄](https://docs.github.com/ja/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)に以下のトピックを設定することを推奨します。
 
