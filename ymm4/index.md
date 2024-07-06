@@ -394,9 +394,17 @@ https://www.dlsite.com/home/dlaf/=/t/s/link/work/aid/manju/id/RJ376955.html
 Copyright (c) .NET Foundation and Contributors  
 https://github.com/dotnet/runtime
 
+### AvalonEdit / MIT License
+Copyright (c) AvalonEdit Contributors
+https://github.com/icsharpcode/AvalonEdit
+
 ### AWSSDK.Polly / Apache 2.0
 © 2022, Amazon Web Services, Inc. or its affiliates.All rights reserved.  
 https://github.com/aws/aws-sdk-net/
+
+### BraceFoldingStrategy / MIT License
+Copyright (c) 2009 Daniel Grunwald
+https://github.com/icsharpcode/AvalonEdit/blob/master/ICSharpCode.AvalonEdit.Sample/BraceFoldingStrategy.cs
 
 ### CsvHelper / MS-PL
 © 2009-2021 Josh Close  
