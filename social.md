@@ -10,7 +10,7 @@ tags: [その他]
 ## X
 - [@manju_summoner](https://x.com/manju_summoner)
 
-## ActivityPub (Fediverse, Mastodon, Misskey, etc.)
+## ActivityPub (Mastodon, Misskey, etc.)
 - [@manju_summoner@misskey.io（未稼働）](https://misskey.io/@manju_summoner)
 - [@manju_summoner@fedibird.com（未稼働）](https://fedibird.com/@manju_summoner)
 - [@manju_summoner@pawoo.net（イラスト用・未稼働）](https://pawoo.net/@manju_summoner)
