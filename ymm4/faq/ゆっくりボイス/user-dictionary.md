@@ -2,7 +2,7 @@
 title: 単語辞書・発音辞書に登録した項目が適用されない
 date: 2024-06-07
 tags: [YMM4]
-keywords: [AquesTalk, VOICEVOX, 単語辞書, 発音辞書]
+keywords: [AquesTalk, VOICEVOX, 単語, 発音, 辞書]
 ---
 ## 発生する問題
 単語辞書・発音辞書に登録した項目が適用されない。
