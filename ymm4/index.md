@@ -170,6 +170,11 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### 字幕翻訳効率化
+[hiroチャンネル](https://x.com/hiro15409443_2)によって開発されている、字幕翻訳ツールです。  
+YMM4が出力するexoファイルをsbv形式の字幕ファイルに変換することができるほか、自動翻訳機能で動画を多言語字幕に対応させることが可能です。
+- [字幕翻訳効率化](https://www.hirochhep.com/contentpage.php?ID=SO007)
+
 ### MaterialFinder
 [けやき依音](https://twitter.com/Keyaki_Ion)さんによって開発されているツールです。  
 YMM4のプロジェクトファイルから使用している素材ファイルのパスを一括で取得することができます。
