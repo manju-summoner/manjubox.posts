@@ -512,6 +512,12 @@ https://github.com/runceel/ReactiveProperty
 Copyright (c) 2014 Adam Hathcock  
 https://github.com/adamhathcock/sharpcompress
 
+### SoundTouch.net / LGPL v2.1
+Copyright (c) 2001-2024 Olli Parviainen
+Copyright (c) owoudenberg
+https://www.surina.net/soundtouch/
+https://github.com/owoudenberg/soundtouch.net
+
 ### SharpGenTools / MIT License
 Copyright (c) 2010-2017 Alexandre Mutel, 2017 Jeremy Koritzinsky  
 https://github.com/SharpGenTools/SharpGenTools
