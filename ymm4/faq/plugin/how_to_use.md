@@ -3,16 +3,25 @@ title: プラグインを使用する
 date: 2023-09-01
 tags: [YMM4]
 ---
-## YMM4にプラグインを追加する
-1. プラグインをダウンロードする
-   - [プラグイン一覧から探す](../../index.md#プラグイン)
-   - X（旧Twitter）で探す
-     - [#YMM4Plugin](https://twitter.com/search?q=%23YMM4Plugin)
-   - GitHubで探す
-     - [#ymm-plugin](https://github.com/topics/ymm4-plugin)
-   - BOOTHで探す
-     - [#YMM4Plugin](https://booth.pm/ja/items?tags%5B%5D=YMM4Plugin)
-1. ダウンロードしたプラグインを展開する
+## プラグインのダウンロード
+- [プラグイン一覧から探す](../../index.md#プラグイン)
+- X（旧Twitter）で探す
+  - [#YMM4Plugin](https://twitter.com/search?q=%23YMM4Plugin)
+- GitHubで探す
+  - [#ymm-plugin](https://github.com/topics/ymm4-plugin)
+- BOOTHで探す
+  - [#YMM4Plugin](https://booth.pm/ja/items?tags%5B%5D=YMM4Plugin)
+
+## ダウンロードしたファイルがzipファイルの場合
+1. zipファイルを展開（解凍）する
+1. zipファイルの中身が「ymmeファイル」「dllファイル」どちらなのかを確認し、以下の手順に従ってインストールする
+
+## ダウンロードしたファイルがymmeファイルの場合
+1. ダウンロードしたymmeファイルをダブルクリックする
+1. プラグインのインストーラーが起動するので指示に従いインストールする
+  - インストーラーが起動しない場合、YMM4起動後、*ヘルプ(H)*→*YMM4用拡張子の関連付け*→*登録する*をクリックして拡張子の関連付けを行ってください
+
+## ダウンロードしたファイルがdllファイルの場合
 1. *YMM4フォルダ\user\plugin*フォルダ内にプラグインを配置する  
    ※ サブフォルダ内への配置を推奨
 1. YMM4を起動する
