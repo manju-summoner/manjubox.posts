@@ -5,6 +5,7 @@
   - page: ゆっくりmoviemaker4が起動しない
   - page: 「MicrosoftStoreでアプリを検索しますか？」と表示される
   - page: 「windowsによってpcが保護されました」と表示される
+  - page: SmartAppControl
   - page: セキュリティソフトに誤検知される
   - page: exeファイルが消える
   - page: アンインストール（削除）したい
