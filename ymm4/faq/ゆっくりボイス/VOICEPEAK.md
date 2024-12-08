@@ -4,7 +4,7 @@ date: 2022-02-27
 tags: [YMM4]
 keywords: [VOICEPEAK, ボイスピ]
 ---
-## A.I.VOICEとは
+## VOICEPEAKとは
 ![スクリーンショット](VOICEPEAK_0548.png)
 VOICEPEAKは、株式会社AHSとDreamtonics株式会社が共同開発した音声合成ソフトです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。  
