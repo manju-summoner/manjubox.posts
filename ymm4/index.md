@@ -158,6 +158,14 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 ※細かい利用規約は[VOICEVOX Nemo公式サイト](https://voicevox.hiroshiba.jp/nemo/)をご確認ください。
 - [ゆっくりMovieMaker4でVOICEVOX Nemoを使用する](./faq/ゆっくりボイス/VOICEVOXNemo.md)
 
+### にじボイス
+![スクリーンショット](index_3913.png)
+[にじボイス](https://nijivoice.com/)は株式会社Algomaticによって開発されている音声合成サービスです。  
+外部連携APIを使用し、YMM4から直接音声を生成できます。  
+利用には別途アカウントの作成とクレジットの購入が必要です。（初回5000文字無料）  
+※細かい利用規約は[にじボイス公式サイト](https://nijivoice.com/terms)をご確認ください。
+- [ゆっくりMovieMaker4でにじボイスを使用する](./faq/ゆっくりボイス/NijiVoice.md)
+
 ### よみてのれゐ
 <Flex>
     <DLsiteCard store="home" item="RJ376955"/>
@@ -393,6 +401,15 @@ Copyright (c) 2021 Hiroshiba Kazuyuki
 利用には別途VOICEVOXとVOICEVOX Nemoのインストールが必要です。  
 利用条件等に関してはVOICEVOXアプリ内のヘルプをご確認ください。  
 https://voicevox.hiroshiba.jp/nemo/
+
+### にじボイス 外部連携API
+© Algomatic Inc. All Rights Reserved  
+利用には別途アカウントの作成とクレジットの購入が必要です。（初回5000文字無料）  
+コンテンツ内、もしくは、コンテンツ概要欄のいずれかに「にじボイス」または「NIJI Voice」が含まれるクレジットを記載してください。  
+SNSの場合はコンテンツが含まれるツイートのリプ欄にクレジットを表記しても問題ありません。  
+音声作品で概要欄がない場合は、クレジットの読み上げが必要となります。  
+【クレジット表記例】「使用サービス: にじボイス」「Voiced by NIJI Voice」   
+https://nijivoice.com/
 
 ### よみてのれゐ 外部連携API
 Copyright (c) 2022 Yomite Program  
