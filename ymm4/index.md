@@ -466,6 +466,11 @@ https://github.com/googleapis/google-cloud-dotnet
 Copyright (c)2014 David Hoskins.  
 https://www.shadertoy.com/view/4djSRW
 
+### IbukiHash / CC0
+Created by Andante (https://twitter.com/andanteyk)  
+This work is marked with CC0 1.0. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/  
+https://gist.github.com/andanteyk/7581e025cc7e9af796b10032c61015a8  
+
 ### IPADic
 Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology. All Rights Reserved.  
 http://taku910.github.io/mecab/
