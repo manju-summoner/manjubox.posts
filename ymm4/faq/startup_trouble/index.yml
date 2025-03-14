@@ -7,6 +7,7 @@
   - page: 「windowsによってpcが保護されました」と表示される
   - page: SmartAppControl
   - page: セキュリティソフトに誤検知される
+  - page: WindowsセキュリティによってYMM4の起動がブロックされる
   - page: exeファイルが消える
   - page: アンインストール（削除）したい
   - page: updatefailed
