@@ -69,13 +69,6 @@ YMM4にデフォルトで組み込まれており、YMM4Liteではプラグイ�
 CeVIOプロジェクトが開発する音声合成ソフトです。  
 - [ゆっくりMovieMaker4でCeVIOを使用する](./faq/ゆっくりボイス/CeVIO%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
 
-### CoeAvatar
-
-<CoeAvatarCards limit="5"/>
-
-コエステ株式会社が提供するクラウド音声合成サービスです。  
-- [ゆっくりMovieMaker4でCoeAvatarを使用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/CoeAvatar.md)
-
 ### CoeFont
 ![スクリーンショット](index_1057.png)
 3000種類以上の音声が利用可能なAI音声合成サービスです。  
@@ -331,10 +324,6 @@ http://cevio.jp/
   
 音声データやキャラクターの利用について  
 http://cevio.jp/commercial/
-
-### CoeAvatar 外部連携API
-Copyright (c) 2022 Coestation Inc.  
-https://coeavatar.com/
 
 ### CoeFont 外部連携API
 Copyright (c) 2021 CoeFont Co.,Ltd.All Rights Reserved.  

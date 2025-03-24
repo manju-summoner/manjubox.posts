@@ -4,6 +4,10 @@ date: 2022-07-01
 tags: [YMM4]
 keywords: [CoeAvatar, coestation, コエステーション, コエステ, コエアバター]
 ---
+> **Warning**
+> [CoeAvatarサービス終了](https://coeavatar.com/update/detail.php?id=1109165)に伴い、対応を終了しました。
+> 現在は利用できません。
+
 ## CoeAvatarとは
 コエステ株式会社の提供するクラウド音声合成サービスです。  
 
