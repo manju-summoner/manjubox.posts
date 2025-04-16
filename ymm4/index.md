@@ -82,6 +82,10 @@ CeVIOプロジェクトが開発する音声合成ソフトです。
 ※細かい利用規約は[COEIROINK公式サイト](https://coeiroink.com/terms)をご確認ください。
 - [ゆっくりMovieMaker4でCOEIROINKを使用する](./faq/ゆっくりボイス/COEIROINK.md)
 
+### ElevenLabs
+ElevenLabsが提供するクラウド音声合成サービスです。  
+- [ゆっくりMovieMaker4でElevenLabsを使用する](./faq/ゆっくりボイス/ElevenLabs.md)
+
 ### Google Cloud Text-to-Speech
 Googleが提供するクラウド音声合成サービスです。  
 - [ゆっくりMovieMaker4でGoogle Cloud Text-to-Speechを使用する](./faq/ゆっくりボイス/GoogleCloudTTS.md)
@@ -336,6 +340,11 @@ Copyright (c) 2021 shirowanisan
 利用には別途COEIROINKのインストールが必要です。  
 利用条件等に関してはCOEIROINKアプリ内のヘルプをご確認ください。  
 https://coeiroink.com/
+
+### ElevenLabs 外部連携API
+Copyright (c) 2025 ElevenLabs  
+利用には別途ElevenLabsのAPIキーが必要です。  
+https://elevenlabs.io/
 
 ### ITVOICE 外部連携API
 Copyright (c) 2022 いたほび  
