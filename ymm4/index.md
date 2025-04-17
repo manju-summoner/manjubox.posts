@@ -133,10 +133,10 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [Style-Bert-VITS2の音声を利用する](./faq/ゆっくりボイス/Style-Bert-VITS2.md)
 
-### TALQu3 PRO
+### TALQu3
 ![スクリーンショット](index_0719.png)
-[Haruqa](https://twitter.com/niconicoHaruqa)さんによって[Haruqa｜PixivFANBOX](https://www.fanbox.cc/@haruqa)支援者向けに公開されている音声合成ソフトです。  
-- [ゆっくりMovieMaker4でTALQu3 PROを使用する](./faq/ゆっくりボイス/TALQu.md)
+[Haruqa](https://twitter.com/niconicoHaruqa)さんによって公開されているフリーの音声合成ソフトです。  
+- [ゆっくりMovieMaker4でTALQu3を使用する](./faq/ゆっくりボイス/TALQu.md)
 
 ### VOICEPEAK
 <VOICEPEAKCards limit="5"/>
@@ -384,8 +384,8 @@ https://github.com/fishaudio/Bert-VITS2
 
 ### TALQu3 PRO 外部連携API
 Copyright (c) Haruqa  
-利用には別途TALQu3 PROのインストールが必要です。  
-利用条件等に関してはTALQu3 PROアプリ内のヘルプをご確認ください。  
+利用には別途TALQu3のインストールが必要です。  
+利用条件等に関してはTALQu3アプリ内のヘルプをご確認ください。  
 https://haruqa.github.io/TALQu/
 
 ### VOICEPEAK コマンドラインAPI
