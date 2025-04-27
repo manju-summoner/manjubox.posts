@@ -1,6 +1,6 @@
 ---
 title: ElevenLabsの音声を利用する
-date: 2025-05-01
+date: 2025-04-26
 tags: [YMM4]
 ---
 ## ElevenLabsとは
