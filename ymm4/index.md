@@ -568,6 +568,10 @@ https://unidic.ninjal.ac.jp/
 Copyright (c) 2019 Amer Koleci and Vortice contributors.  
 https://github.com/amerkoleci/Vortice.Windows
 
+### YukkuriMovieMaker.Plugin.Community / LGPL v3.0
+Copyright (c) 2024 manju summoner and contributors.
+https://github.com/manju-summoner/YukkuriMovieMaker.Plugin.Community
+
 ### うずらフォント
 (C) 2005 AZUSA_H ALL RIGHTS RESERVED.  
 http://azukifont.com/index.html  
