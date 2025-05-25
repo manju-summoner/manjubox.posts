@@ -88,7 +88,12 @@ ElevenLabsが提供するクラウド音声合成サービスです。
 
 ### Google Cloud Text-to-Speech
 Googleが提供するクラウド音声合成サービスです。  
+利用には別途APIキーが必要です。  
 - [ゆっくりMovieMaker4でGoogle Cloud Text-to-Speechを使用する](./faq/ゆっくりボイス/GoogleCloudTTS.md)
+
+### Gemini Text-to-Speech
+Googleが提供するクラウド音声合成サービスです。
+利用には別途APIキーが必要です。  
 
 ### ITVOICE
 ![スクリーンショット](index_4641.png)
@@ -346,6 +351,11 @@ Copyright (c) 2025 ElevenLabs
 利用には別途ElevenLabsのAPIキーが必要です。  
 https://elevenlabs.io/
 
+### GeminiTTS 外部連携API
+Copyright (c) Google
+利用には別途GeminiのAPIキーが必要です。
+https://ai.google.dev/
+
 ### ITVOICE 外部連携API
 Copyright (c) 2022 いたほび  
 利用には別途ITVOICEのインストールが必要です。  
@@ -488,6 +498,10 @@ Copyright (c) 2024 さわらつき
 https://twitter.com/sawaratsuki1004
 https://github.com/SAWARATSUKI/KawaiiLogos
 
+### kotoba-whisper / Apache 2.0
+Copyright (c) kotoba-tech
+https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0-ggml
+
 ### LZMA SDK / Public domain
 https://www.7-zip.org/sdk.html
 
@@ -567,6 +581,18 @@ https://unidic.ninjal.ac.jp/
 ### Vortice.Windows / MIT License
 Copyright (c) 2019 Amer Koleci and Vortice contributors.  
 https://github.com/amerkoleci/Vortice.Windows
+
+### Whisper.cpp / MIT License
+Copyright (c) 2023-2024 The ggml authors
+https://github.com/ggml-org/whisper.cpp
+
+### Whisper.net / MIT License
+Copyright (c) 2024 sandrohanea
+https://github.com/sandrohanea/whisper.net
+
+### YamlDotNet / MIT License
+Copyright (c) 2008, 2009, 2010, 2011, 2012, 2013, 2014 Antoine Aubry and contributors
+https://github.com/aaubry/YamlDotNet
 
 ### YukkuriMovieMaker.Plugin.Community / LGPL v3.0
 Copyright (c) 2024 manju summoner and contributors.
