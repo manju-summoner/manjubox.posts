@@ -12,11 +12,11 @@ tags: [YMM4]
 
 ## YMM4にプラグインを作成する
 1. [VisualStudio](https://visualstudio.microsoft.com/ja/)をインストールする
-1. .NET7のクラスライブラリプロジェクトを作成する
+1. .NET9のクラスライブラリプロジェクトを作成する
 1. プロジェクトの作成後、プロジェクトファイルの`<TargetFramework>`を`net9.0-windows10.0.19041.0`に変更し、その下に`<UseWPF>true</UseWPF>`を追加する
 ```xml
 <PropertyGroup>
-    <TargetFramework>net7.0-windows10.0.19041.0</TargetFramework>
+    <TargetFramework>net9.0-windows10.0.19041.0</TargetFramework>
     <UseWPF>true</UseWPF>
 
     ...省略...
