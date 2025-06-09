@@ -1,6 +1,8 @@
 
 - key: /ymm4/release/
   index:
+  - page: 4.42.1.1
+  - page: 4.42.1.0
   - page: 4.42.0.5
   - page: 4.42.0.4
   - page: 4.42.0.3
