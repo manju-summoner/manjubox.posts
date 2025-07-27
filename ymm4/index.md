@@ -443,7 +443,7 @@ Copyright (c) .NET Foundation and Contributors
 https://github.com/dotnet/runtime
 
 ### AvalonEdit / MIT License
-Copyright (c) AvalonEdit Contributors
+Copyright (c) AvalonEdit Contributors  
 https://github.com/icsharpcode/AvalonEdit
 
 ### AWSSDK.Polly / Apache 2.0
@@ -451,7 +451,7 @@ https://github.com/icsharpcode/AvalonEdit
 https://github.com/aws/aws-sdk-net/
 
 ### BraceFoldingStrategy / MIT License
-Copyright (c) 2009 Daniel Grunwald
+Copyright (c) 2009 Daniel Grunwald  
 https://github.com/icsharpcode/AvalonEdit/blob/master/ICSharpCode.AvalonEdit.Sample/BraceFoldingStrategy.cs
 
 ### CsvHelper / MS-PL
@@ -483,7 +483,7 @@ https://www.shadertoy.com/view/4djSRW
 ### IbukiHash / CC0
 Created by Andante (https://twitter.com/andanteyk)  
 This work is marked with CC0 1.0. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/  
-https://gist.github.com/andanteyk/7581e025cc7e9af796b10032c61015a8  
+https://gist.github.com/andanteyk/7581e025cc7e9af796b10032c61015a8
 
 ### IPADic
 Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology. All Rights Reserved.  
@@ -494,8 +494,8 @@ Copyright (c) 2007 James Newton-King
 https://www.newtonsoft.com/json
 
 ### KawaiiLogos
-Copyright (c) 2024 さわらつき
-https://twitter.com/sawaratsuki1004
+Copyright (c) 2024 さわらつき  
+https://twitter.com/sawaratsuki1004  
 https://github.com/SAWARATSUKI/KawaiiLogos
 
 ### kotoba-whisper / Apache 2.0
@@ -509,7 +509,7 @@ https://www.7-zip.org/sdk.html
 #### Icons / Apache 2.0
 #### Fonts / Apache 2.0
 #### Code / Apache 2.0
-Copyright (c) 2024 Pictogrammers
+Copyright (c) 2024 Pictogrammers  
 https://materialdesignicons.com/
 
 ### Math.NET Numerics / MIT License
@@ -565,9 +565,9 @@ Copyright (c) 2014 Adam Hathcock
 https://github.com/adamhathcock/sharpcompress
 
 ### SoundTouch.net / LGPL v2.1
-Copyright (c) 2001-2024 Olli Parviainen
-Copyright (c) owoudenberg
-https://www.surina.net/soundtouch/
+Copyright (c) 2001-2024 Olli Parviainen  
+Copyright (c) owoudenberg  
+https://www.surina.net/soundtouch/  
 https://github.com/owoudenberg/soundtouch.net
 
 ### SharpGenTools / MIT License
@@ -583,19 +583,19 @@ Copyright (c) 2019 Amer Koleci and Vortice contributors.
 https://github.com/amerkoleci/Vortice.Windows
 
 ### Whisper.cpp / MIT License
-Copyright (c) 2023-2024 The ggml authors
+Copyright (c) 2023-2024 The ggml authors  
 https://github.com/ggml-org/whisper.cpp
 
 ### Whisper.net / MIT License
-Copyright (c) 2024 sandrohanea
+Copyright (c) 2024 sandrohanea  
 https://github.com/sandrohanea/whisper.net
 
 ### YamlDotNet / MIT License
-Copyright (c) 2008, 2009, 2010, 2011, 2012, 2013, 2014 Antoine Aubry and contributors
+Copyright (c) 2008, 2009, 2010, 2011, 2012, 2013, 2014 Antoine Aubry and contributors  
 https://github.com/aaubry/YamlDotNet
 
 ### YukkuriMovieMaker.Plugin.Community / LGPL v3.0
-Copyright (c) 2024 manju summoner and contributors.
+Copyright (c) 2024 manju summoner and contributors.  
 https://github.com/manju-summoner/YukkuriMovieMaker.Plugin.Community
 
 ### うずらフォント
