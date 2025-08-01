@@ -48,10 +48,11 @@ YMM3の後継バージョンで、動画出力機能、倍速プレビュー、�
 A.I.VOICE™は音声合成AITalk®5 の技術を応用した個人利用者向けソフトです。  
 - [ゆっくりMovieMaker4でA.I.VOICEを使用する](./faq/ゆっくりボイス/AIVOICE.md)
 
-### AivisSpeech
+### AivisProject（AivisSpeech / AivisCloudAPI）
 ![スクリーンショット](index_1708.png)
-JPchain社によって提供されている、フリーの音声合成ソフトです。
+JPchain社によって提供されている、フリーの音声合成ソフト / 有償クラウド音声合成サービスです。
 - [ゆっくりMovieMaker4でAivisSpeechを使用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/AivisSpeech.md)
+- [ゆっくりMovieMaker4でAivisCloudAPIを使用する](./faq/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%83%9C%E3%82%A4%E3%82%B9/AivisCloudAPI.md)
 
 ### Amazon Polly
 Amazonが提供するクラウド音声合成サービスです。  
@@ -313,6 +314,12 @@ https://www.a-quest.com/
 Copyright (c) AI Inc.  
 利用には別途 A.I.VOICE の購入が必要です。  
 https://aivoice.jp/
+
+### Aivis Cloud API
+Copyright (c) 2024 JPchain Inc.
+https://aivis-project.com/
+
+利用には別途AivisCloudAPIのAPIキーが必要です。
 
 ### AivisSpeech 外部連携API
 Copyright (c) 2024 JPchain Inc.
