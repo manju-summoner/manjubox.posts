@@ -12,5 +12,5 @@ https://manjubox.net/rss.xml
 https://manjubox.net/ymm4plugins.yml
 
 ### GitHub Releasesで公開されているプラグイン一覧・詳細
-https://manjubox.net/api/ymm4plugins/github/list
+https://manjubox.net/api/ymm4plugins/github/list  
 https://manjubox.net/api/ymm4plugins/github/detail/{user}/{repo}
