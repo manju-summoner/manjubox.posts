@@ -187,6 +187,11 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 ## 外部アプリケーション
 YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
 
+### ゆっくりムービーメーカー4Hubソフト
+![スクリーンショット](index_4618.png)
+[ハイさんgames](https://x.com/HAIhai3games)さんによって開発されている、ゆっくりMovieMaker4用のハブソフトです。
+- [YukkuriMovieMaker4Hub](https://github.com/HAIsanGames813/YukkuriMovieMaker4Hub)
+
 ### 字幕翻訳効率化
 [hiroチャンネル](https://x.com/hiro15409443_2)によって開発されている、字幕翻訳ツールです。  
 YMM4が出力するexoファイルをsbv形式の字幕ファイルに変換することができるほか、自動翻訳機能で動画を多言語字幕に対応させることが可能です。
