@@ -80,7 +80,6 @@ CeVIOプロジェクトが開発する音声合成ソフトです。
 ### COEIROINK
 ![スクリーンショット](index_0843.png)
 [シロワニさん](https://twitter.com/shirowanisan)によって開発されているフリーの音声合成ソフトです。  
-※細かい利用規約は[COEIROINK公式サイト](https://coeiroink.com/terms)をご確認ください。
 - [ゆっくりMovieMaker4でCOEIROINKを使用する](./faq/ゆっくりボイス/COEIROINK.md)
 
 ### ElevenLabs
@@ -99,7 +98,6 @@ Googleが提供するクラウド音声合成サービスです。
 ### ITVOICE
 ![スクリーンショット](index_4641.png)
 [いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。  
-※細かい利用規約は[ITVOICE公式サイト](http://itvoice.starfree.jp/index.html)をご確認ください。
 - [ゆっくりMovieMaker4でITVOICEを使用する](./faq/ゆっくりボイス/ITVOICE.md)
 
 ### Koemotion / Koeiromap
@@ -111,7 +109,6 @@ rinna株式会社によって提供されている、音声合成サービスで
 ### LMROID
 ![スクリーンショット](index_1900.png)
 LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
-※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/terms)をご確認ください。
 - [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
 
 ### Microsoft Azure Text-to-Speech
@@ -131,7 +128,6 @@ Windowsにデフォルトで搭載されています。
 ### SHAREVOX
 ![スクリーンショット](index_2343.png)
 [Yちゃん](https://twitter.com/y_chan_dev)によって開発されている、フリーの音声合成ソフトです。  
-※細かい利用規約は[SHAREVOX公式サイト](https://www.sharevox.app/)をご確認ください。
 - [ゆっくりMovieMaker4でSHAREVOXを使用する](./faq/ゆっくりボイス/SHAREVOX.md)
 
 ### Style-Bert-VITS2
@@ -152,22 +148,19 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 
 ### VOICEVOX
 ![スクリーンショット](index_0545.png)
-[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
-※細かい利用規約は[VOICEVOX公式サイト](https://voicevox.hiroshiba.jp/)をご確認ください。
+[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料で利用できるテキスト読み上げソフトウェアです。  
 - [ゆっくりMovieMaker4でVOICEVOXを使用する](./faq/ゆっくりボイス/VOICEVOX%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B.md)
 
 ### VOICEVOX Nemo
 ![スクリーンショット](index_3033.png)
-[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料（※）で利用できるテキスト読み上げソフトウェアです。  
-※細かい利用規約は[VOICEVOX Nemo公式サイト](https://voicevox.hiroshiba.jp/nemo/)をご確認ください。
+[ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料で利用できるテキスト読み上げソフトウェアです。  
 - [ゆっくりMovieMaker4でVOICEVOX Nemoを使用する](./faq/ゆっくりボイス/VOICEVOXNemo.md)
 
 ### にじボイス
 ![スクリーンショット](index_3913.png)
 [にじボイス](https://nijivoice.com/)は株式会社Algomaticによって開発されている音声合成サービスです。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。  
-利用には別途アカウントの作成とクレジットの購入が必要です。
-※細かい利用規約は[にじボイス公式サイト](https://nijivoice.com/terms)をご確認ください。
+利用には別途アカウントの作成とクレジットの購入が必要です。  
 - [ゆっくりMovieMaker4でにじボイスを使用する](./faq/ゆっくりボイス/NijiVoice.md)
 
 ### よみてのれゐ
