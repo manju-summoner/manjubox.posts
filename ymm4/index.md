@@ -447,6 +447,12 @@ https://www.dlsite.com/home/dlaf/=/t/s/link/work/aid/manju/id/RJ376955.html
 Copyright (c) .NET Foundation and Contributors  
 https://github.com/dotnet/runtime
 
+### AvalonDock / Ms-PL
+Copyright (c) Xceed Software Inc.
+Copyright (c) Dirkster99
+Copyright (c) manju-summoner
+https://github.com/manju-summoner/AvalonDock
+
 ### AvalonEdit / MIT License
 Copyright (c) AvalonEdit Contributors  
 https://github.com/icsharpcode/AvalonEdit
