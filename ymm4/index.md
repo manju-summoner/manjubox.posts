@@ -100,12 +100,6 @@ Googleが提供するクラウド音声合成サービスです。
 [いたほび](https://twitter.com/iTahobi)さんによって開発されている、フリーの音声合成ソフトです。  
 - [ゆっくりMovieMaker4でITVOICEを使用する](./faq/ゆっくりボイス/ITVOICE.md)
 
-### Koemotion / Koeiromap
-![スクリーンショット](index_5719.png)
-rinna株式会社によって提供されている、音声合成サービスです。  
-利用には別途APIキーの取得が必要です。  
-- [ゆっくりMovieMaker4でKoemotion / Koeiromapを使用する](./faq/ゆっくりボイス/Koemotion.md)
-
 ### LMROID
 ![スクリーンショット](index_1900.png)
 LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
@@ -366,12 +360,6 @@ Copyright (c) 2022 いたほび
 利用には別途ITVOICEのインストールが必要です。  
 利用条件等に関してはITVOICEアプリ内のヘルプをご確認ください。  
 http://itvoice.starfree.jp/
-
-### Koemotion / Koeiromap 外部連携API
-Copyright © 2022 rinna株式会社 - All Rights Reserved.  
-利用には別途Koemotion / KoeiromapのAPIキーが必要です。  
-利用条件等に関しては[Koemotion公式サイト](https://koemotion.rinna.co.jp/)をご確認ください。  
-https://koemotion.rinna.co.jp/
 
 ### LMROID 外部連携API
 Copyright (c) 2022 nohoshio  
