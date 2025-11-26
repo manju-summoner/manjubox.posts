@@ -1,6 +1,6 @@
 ---
 title: VoiSonaTalkの音声を利用する
-date: 2025-11-22
+date: 2025-12-01
 tags: [YMM4]
 keywords: [VoiSona Tal, VoiSonaTalk, ボイソナトーク]
 ---
