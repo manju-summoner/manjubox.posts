@@ -126,7 +126,6 @@ Windowsにデフォルトで搭載されています。
 
 ### Style-Bert-VITS2
 Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによって開発されている音声合成ソフトです。
-外部連携APIを使用し、YMM4から直接音声を生成できます。
 - [Style-Bert-VITS2の音声を利用する](./faq/ゆっくりボイス/Style-Bert-VITS2.md)
 
 ### TALQu3
@@ -149,6 +148,12 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 ![スクリーンショット](index_3033.png)
 [ヒホ](https://twitter.com/hiho_karuta)さんが主導して開発されている、商用・非商用問わず無料で利用できるテキスト読み上げソフトウェアです。  
 - [ゆっくりMovieMaker4でVOICEVOX Nemoを使用する](./faq/ゆっくりボイス/VOICEVOXNemo.md)
+
+### VoiSona Talk
+<VoiSonaTalkCards limit="5"/>
+
+株式会社テクノスピーチによって提供されている音声合成ソフトです。
+- [ゆっくりMovieMaker4でVoiSona Talkを使用する](./faq/ゆっくりボイス/VoiSonaTalk.md)
 
 ### にじボイス
 ![スクリーンショット](index_3913.png)
@@ -408,6 +413,12 @@ Copyright (c) 2021 Hiroshiba Kazuyuki
 利用には別途VOICEVOXとVOICEVOX Nemoのインストールが必要です。  
 利用条件等に関してはVOICEVOXアプリ内のヘルプをご確認ください。  
 https://voicevox.hiroshiba.jp/nemo/
+
+### VoiSona Talk 外部連携API
+Copyright © 2023 Techno-Speech, Inc.  
+利用には別途VoiSona Talk v1.3.4以降のインストールが必要です。  
+利用条件等に関してはVoiSona Talkアプリ内のヘルプをご確認ください。  
+https://voisona.com/
 
 ### にじボイス 外部連携API
 © Algomatic Inc. All Rights Reserved  
