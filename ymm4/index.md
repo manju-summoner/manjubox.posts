@@ -181,28 +181,8 @@ Style-Bert-VITS2は、[litagin02](https://github.com/litagin02)さんによっ�
 [SHINTA](https://twitter.com/shinta0806)さんによって開発されている、UTAU音源を使用したテキスト音声合成ソフトウェアです。  
 - [唄詠 | 翔星ワールド](https://shinta.coresv.com/software/utayomi2-ja-jp/)
 
-## 外部アプリケーション
-YMM4と連携して利用可能な外部アプリ・サービスの一覧です。
-
-### ゆっくりムービーメーカー4Hubソフト
-![スクリーンショット](index_4618.png)
-[ハイさんgames](https://x.com/HAIhai3games)さんによって開発されている、ゆっくりMovieMaker4用のハブソフトです。
-- [YukkuriMovieMaker4Hub](https://github.com/HAIsanGames813/YukkuriMovieMaker4Hub)
-
-### 字幕翻訳効率化
-[hiroチャンネル](https://x.com/hiro15409443_2)によって開発されている、字幕翻訳ツールです。  
-YMM4が出力するexoファイルをsbv形式の字幕ファイルに変換することができるほか、自動翻訳機能で動画を多言語字幕に対応させることが可能です。
-- [字幕翻訳効率化](https://www.hirochhep.com/contentpage.php?ID=SO007)
-
-### MaterialFinder
-[けやき依音](https://twitter.com/Keyaki_Ion)さんによって開発されているツールです。  
-YMM4のプロジェクトファイルから使用している素材ファイルのパスを一括で取得することができます。
-- [Material_Finder](https://github.com/KeyakiIon/Material_Finder)
-
-### RPPtoEXO v2.0
-[がれっく](https://twitter.com/Garec_)さんによって開発されている音MAD補助用プログラムです。  
-REAPERのプロジェクトファイル上のメディアアイテムの位置やMIDIファイルの音符情報をもとにYMM4用のテンプレートを生成する機能が実装されています。  
-- [RPPtoEXO v2.0](https://scrapbox.io/Garech/RPPtoEXO_v2.0)
+## 外部ツール・サービス
+YMM4と連携して利用可能な外部ツール・サービスの一覧です。
 
 ### AoiSupport
 ![スクリーンショット](index_4020.png)
@@ -210,23 +190,22 @@ REAPERのプロジェクトファイル上のメディアアイテムの位置�
 各種音声合成ソフトでの音声を生成し、YMM4へ自動的に読み込ませることが可能です。
 - [AoiSupport](https://aoi-chan.moe/aoisupport/)
 
-### DisNOTE
-[ろじろじ](https://twitter.com/roji2)さんによって開発されている、Discordの録音データからセリフを書き出す+書き起こしできるツールです。  
-YMM4用のプロジェクトファイルの出力機能も実装されています。
-- [DisNOTE](https://roji3.jpn.org/disnote/)
-
 ### AutoYukkuri
 [akaz](https://twitter.com/akazdayo)さんによって開発されている、プロジェクトファイル生成ツールです。  
 録音した音声ファイルを元に音声認識してプロジェクトファイルを生成することができます。
 - [AutoYukkuri](https://github.com/akazdayo/AutoYukkuri)
 - [ダウンロードページ](https://github.com/akazdayo/AutoYukkuri/releases/)
 
-### YMovieHelper
-![スクリーンショット](index_1001.png)
-[だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
-csv形式の台本ファイルを元に、YMM4用のプロジェクトファイルを生成することが出来ます。  
-立ち絵の表情や動画の切り替えにも対応しています。
-- [YMovieHelper](https://github.com/itkmaingit/YMovieHelperLocal)
+### f2ft
+![スクリーンショット](index_5138.png)
+[うにくま](https://twitter.com/unikuma_sub)さんによって開発されている、YMM4から出力されるexoファイルの縁取りエフェクトをAviUtlスクリプトの縁取りTに置換するプログラムです。  
+- [f2ft](https://github.com/unikuma/f2ft)
+- [ダウンロードページ](https://github.com/unikuma/f2ft/releases)
+
+### DisNOTE
+[ろじろじ](https://twitter.com/roji2)さんによって開発されている、Discordの録音データからセリフを書き出す+書き起こしできるツールです。  
+YMM4用のプロジェクトファイルの出力機能も実装されています。
+- [DisNOTE](https://roji3.jpn.org/disnote/)
 
 ### KuchiPaku
 ![スクリーンショット](index_4407.png)
@@ -234,11 +213,10 @@ csv形式の台本ファイルを元に、YMM4用のプロジェクトファイ�
 - [KuchiPaku](https://github.com/InuInu2022/KuchiPaku)
 - [ダウンロードページ](https://github.com/InuInu2022/KuchiPaku/releases)
 
-### f2ft
-![スクリーンショット](index_5138.png)
-[うにくま](https://twitter.com/unikuma_sub)さんによって開発されている、YMM4から出力されるexoファイルの縁取りエフェクトをAviUtlスクリプトの縁取りTに置換するプログラムです。  
-- [f2ft](https://github.com/unikuma/f2ft)
-- [ダウンロードページ](https://github.com/unikuma/f2ft/releases)
+### MaterialFinder
+[けやき依音](https://twitter.com/Keyaki_Ion)さんによって開発されているツールです。  
+YMM4のプロジェクトファイルから使用している素材ファイルのパスを一括で取得することができます。
+- [Material_Finder](https://github.com/KeyakiIon/Material_Finder)
 
 ### OPTPiX SpriteStudio
 ![OPTPiX SpriteStudioで作成した動く立ち絵素材のサンプル](index-spritestudio.webp)
@@ -249,6 +227,29 @@ csv形式の台本ファイルを元に、YMM4用のプロジェクトファイ�
 
 以下のページで[動く立ち絵素材](./faq/立ち絵機能/%E5%8B%95%E3%81%8F%E7%AB%8B%E3%81%A1%E7%B5%B5%E7%B4%A0%E6%9D%90%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.md)の作例と、サンプルデータが公開されています。
 - [OPTPiX Spritestudio Ver.6.6.3 でアニメーションWebPが出力可能になりました！](https://www.webtech.co.jp/blog/products/spritestudio/15630/)
+
+### RPPtoEXO v2.0
+[がれっく](https://twitter.com/Garec_)さんによって開発されている音MAD補助用プログラムです。  
+REAPERのプロジェクトファイル上のメディアアイテムの位置やMIDIファイルの音符情報をもとにYMM4用のテンプレートを生成する機能が実装されています。  
+- [RPPtoEXO v2.0](https://scrapbox.io/Garech/RPPtoEXO_v2.0)
+
+### YMovieHelper
+![スクリーンショット](index_1001.png)
+[だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
+csv形式の台本ファイルを元に、YMM4用のプロジェクトファイルを生成することが出来ます。  
+立ち絵の表情や動画の切り替えにも対応しています。
+- [YMovieHelper](https://github.com/itkmaingit/YMovieHelperLocal)
+
+### 字幕翻訳効率化
+[hiroチャンネル](https://x.com/hiro15409443_2)によって開発されている、字幕翻訳ツールです。  
+YMM4が出力するexoファイルをsbv形式の字幕ファイルに変換することができるほか、自動翻訳機能で動画を多言語字幕に対応させることが可能です。
+- [字幕翻訳効率化](https://www.hirochhep.com/contentpage.php?ID=SO007)
+
+### ゆっくりムービーメーカー4Hubソフト
+![スクリーンショット](index_4618.png)
+[ハイさんgames](https://x.com/HAIhai3games)さんによって開発されている、ゆっくりMovieMaker4用のハブソフトです。
+- [YukkuriMovieMaker4Hub](https://github.com/HAIsanGames813/YukkuriMovieMaker4Hub)
+
 
 ### その他
 - [過去掲載していた開発終了済みの外部ツールはこちら](#謝辞)
