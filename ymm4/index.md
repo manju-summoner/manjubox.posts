@@ -233,6 +233,11 @@ YMM4のプロジェクトファイルから使用している素材ファイル�
 REAPERのプロジェクトファイル上のメディアアイテムの位置やMIDIファイルの音符情報をもとにYMM4用のテンプレートを生成する機能が実装されています。  
 - [RPPtoEXO v2.0](https://scrapbox.io/Garech/RPPtoEXO_v2.0)
 
+### YMM4 自動SE挿入
+![スクリーンショット](index_3819.png)
+[ピンクのまんぼう](https://x.com/tukutukutuku11)さんによって提供されている、セリフから推定した感情を元に、プロジェクトファイルにSEを自動的に挿入するツールです。
+- [YMM4 自動SE挿入](https://creator-edit-toolbox.com/ymm4-ai-sfx/)
+
 ### YMovieHelper
 ![スクリーンショット](index_1001.png)
 [だんご](https://twitter.com/progra_dango)さんによって提供されている、プロジェクトファイル生成ツールです。  
