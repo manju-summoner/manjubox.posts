@@ -105,9 +105,10 @@ Googleが提供するクラウド音声合成サービスです。
 SpiralAI株式会社によって運営されているクラウド音声合成サービスです。
 - [ゆっくりMovieMaker4でKotodamaを使用する](./faq/ゆっくりボイス/Kotodama.md)
 
-### LMROID
+### LMROID（配布・サポート終了）
 ![スクリーンショット](index_1900.png)
 LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
+現在は配布・サポートが終了しています。  
 - [ゆっくりMovieMaker4でLMROIDを使用する](./faq/ゆっくりボイス/LMROID.md)
 
 ### Microsoft Azure Text-to-Speech
@@ -380,8 +381,9 @@ http://itvoice.starfree.jp/
 ### LMROID 外部連携API
 Copyright (c) 2022 nohoshio  
 利用には別途LMROIDのインストールが必要です。  
-利用条件等に関してLMROIDアプリ内のヘルプをご確認ください  
-https://lmroidsoftware.wixsite.com/nhoshio/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84
+利用条件等に関してLMROIDアプリ内のヘルプをご確認ください。  
+現在は配布・サポートが終了しています。  
+lmroidsoftware.wixsite.com/nhoshio
 
 ### Kotodama 外部連携API
 Copyright (c) SpiralAI,Inc.

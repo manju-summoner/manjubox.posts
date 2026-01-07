@@ -4,15 +4,21 @@ date: 2022-09-08
 tags: [YMM4]
 keywords: [LMROID, レミロイド]
 ---
+> **Warning**
+> 現在、LMROIDの配布およびサポートは終了しており、新規インストールすることは出来ません。  
+> 詳細は以下のリンクをご確認ください。  
+> [LMROID 配布・サポート終了のお知らせ - nohoshio💫 / X.com](https://x.com/ssohsn/status/1995145807671222546)
+
 ## LMROIDとは
 ![スクリーンショット](LMROID_0347.png)
-[LMROID](https://lmroidsoftware.wixsite.com/nhoshio)は[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
+LMROIDは[のほしお](https://twitter.com/ssohsn)さんが個人で開発されている、金銭の発生しない趣味の領域で利用可能なフリーの音声合成ソフトです。  
 VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成できます。  
-※細かい利用規約は[LMROID公式サイト](https://lmroidsoftware.wixsite.com/nhoshio/terms)をご確認ください。
-- [LMROID](https://lmroidsoftware.wixsite.com/nhoshio)
+※細かい利用規約はLMROIDアプリ内のヘルプをご確認ください。
+- 旧配布ページ（リンク切れ）
+  - lmroidsoftware.wixsite.com/nhoshio
 
 ## 利用方法
-1. [LMROID](https://lmroidsoftware.wixsite.com/nhoshio)をダウンロードし、任意のフォルダに展開する
+1. LMROIDをダウンロードし、任意のフォルダに展開する
 1. ゆっくりMovieMaker4を起動する
 1. *ファイル(F)*→*設定*から設定ウィンドウを開く
 ![スクリーンショット](LMROID_5859.png)
@@ -33,8 +39,3 @@ VOICEVOX互換の外部連携APIを使用し、YMM4から直接音声を生成�
 1. 声質一覧右側の更新ボタンをクリックする
 1. *VOICEVOXの声質を再読み込み*をクリックする
 ![スクリーンショット](VOICEVOX_0516.png)
-
-## 利用条件等
-- [ソフトウェア利用規約](https://lmroidsoftware.wixsite.com/nhoshio/terms)
-- [音声ライブラリ利用規約](https://lmroidsoftware.wixsite.com/nhoshio/character)
-- [Q&A](https://lmroidsoftware.wixsite.com/nhoshio/q-a)
