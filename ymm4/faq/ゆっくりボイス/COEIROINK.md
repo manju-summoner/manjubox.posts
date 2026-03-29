@@ -7,7 +7,7 @@ keywords: [COEIROINK, コエイロインク, マイコエ]
 ## COEIROINKとは
 ![スクリーンショット](COEIROINK_0843.png)
 COEIROINKは、シロワニさんが開発・公開しているフリーの音声合成ソフトです。  
-VOICEVOXのUIを利用して作成されています。  
+v1.7.3まではVOICEVOXのUIを利用して作成されていました。v2からは独自開発のUIになっています。  
 外部連携APIを使用し、YMM4から直接音声を生成できます。  
 ※細かい利用規約は[COEIROINK公式サイト](https://coeiroink.com/terms)をご確認ください。
 - [COEIROINK](https://coeiroink.com/)
@@ -17,9 +17,11 @@ VOICEVOXのUIを利用して作成されています。
 1. ゆっくりMovieMaker4を起動する
 1. *ファイル(F)*→*設定*から設定ウィンドウ開く
 ![スクリーンショット](COEIROINK_3512.png)
-1. *VOICEVOX*→*アプリケーション一覧*から*COEIROINK*を選択する
+1. (v1の場合)*VOICEVOX*→*アプリケーション一覧*から*COEIROINK*を選択する  
+   (v2の場合)*COEIROINK v2*を選択する
 ![スクリーンショット](COEIROINK_3608.png)
-1. *実行ファイル*欄右側のフォルダボタンをクリックし、*1.*で保存したフォルダ内にある*COEIROINKonVOICEVOX.exe*を選択する
+1. (v1の場合)*実行ファイル*欄右側のフォルダボタンをクリックし、*1.*で保存したフォルダ内にある*COEIROINK.exe*または*COEIROINKonVOICEVOX.exe*を選択する  
+   (v2の場合)*COEIROINKv2.exe*欄右側のフォルダボタンをクリックし、*1.*で保存したフォルダ内にある*COEIROINKv2.exe*を選択する
 ![スクリーンショット](COEIROINK_3817.png)
 1. *ファイル(F)*→*キャラクターの編集*からキャラクター編集ウィンドウを開く
 ![スクリーンショット](COEIROINK_3927.png)
@@ -42,6 +44,6 @@ VOICEVOXのUIを利用して作成されています。
 
 ## 利用条件等
 - [共通利用規約](https://coeiroink.com/terms)
-- [キャラクター別利用規約](https://coeiroink.com/character/list)
+- [キャラクター別利用規約](https://coeiroink.com/character/image-character/nako)
 - [Q&A](https://coeiroink.com/q_and_a)
 - [MYCOEIROINK](https://coeiroink.com/mycoeiroink)
