@@ -3,6 +3,7 @@
   index:
   - page: 倍速・逆再生編集する
   - page: 一文字ずつ表示する
+  - page: text_control_tags
   - page: アニメーション編集する
   - page: 台本ファイルをもとにボイスアイテムを追加する
   - page: item-from-subtitle-file
