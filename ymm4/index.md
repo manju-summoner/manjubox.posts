@@ -534,6 +534,11 @@ Created by Andante (https://twitter.com/andanteyk)
 This work is marked with CC0 1.0. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/  
 https://gist.github.com/andanteyk/7581e025cc7e9af796b10032c61015a8
 
+### InverseBilinear / MIT License
+Copyright (c) 2014 Inigo Quilez  
+Copyright (c) 2024 morimea  
+https://iquilezles.org/
+
 ### IPADic
 Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology. All Rights Reserved.  
 http://taku910.github.io/mecab/
@@ -550,6 +555,10 @@ https://github.com/SAWARATSUKI/KawaiiLogos
 ### kotoba-whisper / Apache 2.0
 Copyright (c) kotoba-tech  
 https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0-ggml
+
+### LlmTornado / MIT License
+Copyright (c) 2024 Matěj Štágl  
+https://github.com/lofcz/LlmTornado
 
 ### LZMA SDK / Public domain
 https://www.7-zip.org/sdk.html
@@ -568,6 +577,14 @@ https://github.com/mathnet/mathnet-numerics
 ### Microsoft.CognitiveServices.Speech
 Copyright (c) Microsoft Corporation. All rights reserved.  
 https://www.nuget.org/packages/Microsoft.CognitiveServices.Speech/
+
+### Microsoft.ML.OnnxRuntime.DirectML / MIT License
+Copyright (c) Microsoft Corporation  
+https://github.com/microsoft/onnxruntime
+
+### Microsoft.Web.WebView2
+Copyright (C) Microsoft Corporation. All rights reserved.  
+https://www.nuget.org/packages/Microsoft.Web.WebView2/
 
 ### MP3Sharp / LGPL v3
 Copyright (c) ZaneDubya  
@@ -588,6 +605,10 @@ MeCab / Copyright(C) Taku Kudo and Nippon Telegraph and Telephone Corporation
 MeCab.DotNet / Copyright(C) Kouji Matsui  
 https://ja.osdn.net/projects/nmecab/  
 http://taku910.github.io/mecab/
+
+### Noto Color Emoji / SIL Open Font License 1.1
+Copyright 2021 Google Inc. All Rights Reserved.  
+https://github.com/googlefonts/noto-emoji
 
 ### NWaves / MIT License
 Copyright (c) 2017 Tim  
@@ -623,6 +644,10 @@ https://github.com/owoudenberg/soundtouch.net
 Copyright (c) 2010-2017 Alexandre Mutel, 2017 Jeremy Koritzinsky  
 https://github.com/SharpGenTools/SharpGenTools
 
+### Silero VAD / MIT License
+Copyright (c) 2020-present Silero Team  
+https://github.com/snakers4/silero-vad
+
 ### UniDic / BSD
 Copyright (c) 2011-2017, The UniDic Consortium All rights reserved.  
 https://unidic.ninjal.ac.jp/
@@ -630,6 +655,11 @@ https://unidic.ninjal.ac.jp/
 ### Vortice.Windows / MIT License
 Copyright (c) 2019 Amer Koleci and Vortice contributors.  
 https://github.com/amerkoleci/Vortice.Windows
+
+### webgl-noise / MIT License
+Copyright (C) 2011 by Ashima Arts (Simplex noise)  
+Copyright (C) 2011-2016 by Stefan Gustavson (Classic noise and others)  
+https://github.com/ashima/webgl-noise
 
 ### Whisper.cpp / MIT License
 Copyright (c) 2023-2024 The ggml authors  
