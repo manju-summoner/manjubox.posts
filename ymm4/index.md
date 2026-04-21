@@ -354,16 +354,16 @@ Copyright (c) AI Inc.
 https://aivoice.jp/
 
 ### Aivis Cloud API
-Copyright (c) 2024 JPchain Inc.
+Copyright (c) 2024 JPchain Inc.  
 https://aivis-project.com/
 
 利用には別途AivisCloudAPIのAPIキーが必要です。
 
 ### AivisSpeech 外部連携API
-Copyright (c) 2024 JPchain Inc.
+Copyright (c) 2024 JPchain Inc.  
 https://aivis-project.com/
 
-利用には別途AivisSpeechのダウンロードが必要です。
+利用には別途AivisSpeechのダウンロードが必要です。  
 利用条件等に関してはAivisSpeechアプリ内のヘルプをご確認ください。
 
 ### AviUtl
@@ -397,8 +397,8 @@ Copyright (c) 2025 ElevenLabs
 https://elevenlabs.io/
 
 ### GeminiTTS 外部連携API
-Copyright (c) Google
-利用には別途GeminiのAPIキーが必要です。
+Copyright (c) Google  
+利用には別途GeminiのAPIキーが必要です。  
 https://ai.google.dev/
 
 ### ITVOICE 外部連携API
@@ -415,7 +415,7 @@ Copyright (c) 2022 nohoshio
 lmroidsoftware.wixsite.com/nhoshio
 
 ### Kotodama 外部連携API
-Copyright (c) SpiralAI,Inc.
+Copyright (c) SpiralAI,Inc.  
 利用には別途KotodamaのAPIキーが必要です。  
 利用条件等に関しては[利用規約](https://lp.kotodama.go-spiral.ai/terms)をご確認ください。
 https://lp.kotodama.go-spiral.ai/
@@ -486,9 +486,9 @@ Copyright (c) .NET Foundation and Contributors
 https://github.com/dotnet/runtime
 
 ### AvalonDock / Ms-PL
-Copyright (c) Xceed Software Inc.
-Copyright (c) Dirkster99
-Copyright (c) manju-summoner
+Copyright (c) Xceed Software Inc.  
+Copyright (c) Dirkster99  
+Copyright (c) manju-summoner  
 https://github.com/manju-summoner/AvalonDock
 
 ### AvalonEdit / MIT License
@@ -548,7 +548,7 @@ https://twitter.com/sawaratsuki1004
 https://github.com/SAWARATSUKI/KawaiiLogos
 
 ### kotoba-whisper / Apache 2.0
-Copyright (c) kotoba-tech
+Copyright (c) kotoba-tech  
 https://huggingface.co/kotoba-tech/kotoba-whisper-v2.0-ggml
 
 ### LZMA SDK / Public domain
