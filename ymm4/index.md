@@ -94,6 +94,8 @@ Googleが提供するクラウド音声合成サービスです。
 ### Gemini Text-to-Speech
 Googleが提供するクラウド音声合成サービスです。
 利用には別途APIキーが必要です。  
+- [ゆっくりMovieMaker4でGemini TTSを使用する](./faq/ゆっくりボイス/GeminiTTS.md)
+
 
 ### ITVOICE
 ![スクリーンショット](index_4641.png)
