@@ -11,6 +11,8 @@
   - page: TextCompletion
   - page: AIVOICE
   - page: AIVOICEの音声が表示されない
+  - page: AivisCloudAPI
+  - page: AivisSpeech
   - page: CeVIOを使用する
   - page: CoeFontを利用する
   - page: COEIROINK
