@@ -96,6 +96,15 @@ Googleが提供するクラウド音声合成サービスです。
 利用には別途APIキーが必要です。  
 - [ゆっくりMovieMaker4でGemini TTSを使用する](./faq/ゆっくりボイス/GeminiTTS.md)
 
+### Grok Text-to-Speech
+xAIが提供するクラウド音声合成サービスです。  
+利用には別途APIキーが必要です。  
+- [ゆっくりMovieMaker4でGrok TTSを使用する](./faq/ゆっくりボイス/GrokTTS.md)
+
+### Irodori-TTS
+[Aratako](https://x.com/aratako_lm)さんによって開発されている、テキストで声質を指示できる音声合成ソフトウェアです。  
+利用にはCUDA対応GPUとIrodori-TTSのローカルインストールが必要です。  
+- [ゆっくりMovieMaker4でIrodori-TTSを使用する](./faq/ゆっくりボイス/Irodori-TTS.md)
 
 ### ITVOICE
 ![スクリーンショット](index_4641.png)
@@ -401,6 +410,18 @@ Copyright (c) Google
 利用には別途GeminiのAPIキーが必要です。  
 https://ai.google.dev/
 
+### Grok TTS 外部連携API
+Copyright (c) xAI Corp.  
+利用には別途xAIのAPIキーが必要です。  
+利用条件等に関しては[xAI Terms of Service](https://x.ai/legal/terms-of-service)をご確認ください。  
+https://x.ai/
+
+### Irodori-TTS 外部連携API
+Copyright (c) Aratako  
+利用には別途Irodori-TTSのインストールが必要です。  
+利用条件等に関してはIrodori-TTSの[リポジトリ](https://github.com/Aratako/Irodori-TTS)をご確認ください。  
+https://github.com/Aratako/Irodori-TTS
+
 ### ITVOICE 外部連携API
 Copyright (c) 2022 いたほび  
 利用には別途ITVOICEのインストールが必要です。  
@@ -520,6 +541,10 @@ https://github.com/manju-summoner/DynamicAero2
 ### FFmpeg / LGPL v3
 (c) 2000-2020 the FFmpeg developers  
 https://ffmpeg.org/
+
+### FFmpeg.AutoGen / MIT License
+Copyright (c) 2025 Ruslan Balanukhin (Rationale One)  
+https://github.com/Ruslan-B/FFmpeg.AutoGen
 
 ### Google.Cloud.TextToSpeech.V1 / Apache 2.0
 © 2020 Google LLC All rights reserved.  
