@@ -18,6 +18,8 @@
   - page: COEIROINK
   - page: ElevenLabs
   - page: GeminiTTS
+  - page: GrokTTS
+  - page: Irodori-TTS
   - page: ITVOICE
   - page: Kotodama
   - page: LMROID
