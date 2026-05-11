@@ -524,6 +524,10 @@ https://github.com/aws/aws-sdk-net/
 Copyright (c) 2009 Daniel Grunwald  
 https://github.com/icsharpcode/AvalonEdit/blob/master/ICSharpCode.AvalonEdit.Sample/BraceFoldingStrategy.cs
 
+### ComputeSharp / MIT License
+Copyright (c) 2024 Sergio Pedri  
+https://github.com/Sergio0694/ComputeSharp
+
 ### CsvHelper / MS-PL
 © 2009-2021 Josh Close  
 https://joshclose.github.io/CsvHelper/
@@ -545,6 +549,10 @@ https://ffmpeg.org/
 ### FFmpeg.AutoGen / MIT License
 Copyright (c) 2025 Ruslan Balanukhin (Rationale One)  
 https://github.com/Ruslan-B/FFmpeg.AutoGen
+
+### GeneralUserGS / GeneralUser GS License v2.0
+Copyright (C) S. Christian Collins  
+http://www.schristiancollins.com
 
 ### Google.Cloud.TextToSpeech.V1 / Apache 2.0
 © 2020 Google LLC All rights reserved.  
@@ -598,6 +606,21 @@ https://materialdesignicons.com/
 ### Math.NET Numerics / MIT License
 Copyright (c) 2002-2021 Math.NET  
 https://github.com/mathnet/mathnet-numerics
+
+### MeltySynth / MIT License
+C# Synth  
+http://csharpsynthproject.codeplex.com  
+Copyright (C) 2014 Alex Veltsistas
+
+TinySoundFont  
+https://github.com/schellingb/TinySoundFont  
+Copyright (C) 2017, 2018 Bernhard Schelling  
+Based on SFZero, Copyright (C) 2012 Steve Folta  
+https://github.com/stevefolta/SFZero
+
+MeltySynth  
+https://github.com/sinshu/meltysynth  
+Copyright (C) 2021 Nobuaki Tanaka
 
 ### Microsoft.CognitiveServices.Speech
 Copyright (c) Microsoft Corporation. All rights reserved.  
