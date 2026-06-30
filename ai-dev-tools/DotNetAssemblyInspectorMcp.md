@@ -2,7 +2,7 @@
 title: DotNetAssemblyInspectorMcp
 date: 2026-06-26
 tags: [AI開発ツール]
-excerpt: .NETアセンブリ(.dll/.exe)をリフレクションで解析しMCPツールとしてLLMに提供するMCPサーバー
+description: .NETアセンブリ(.dll/.exe)をリフレクションで解析しMCPツールとしてLLMに提供するMCPサーバー
 ---
 ## 概要
 .NET アセンブリ（`.dll` / `.exe`）を `MetadataLoadContext` で読み取り専用に解析し、その結果を Model Context Protocol (MCP) ツールとして LLM クライアントへ提供する stdio ベースの MCP サーバーです。  

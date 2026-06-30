@@ -2,7 +2,7 @@
 title: WPFPreviewMCP
 date: 2026-06-26
 tags: [AI開発ツール]
-excerpt: WPFデスクトップアプリの画面観察・操作をLLMから行えるようにするMCPサーバー
+description: WPFデスクトップアプリの画面観察・操作をLLMから行えるようにするMCPサーバー
 ---
 ## 概要
 Claude Code の Web 版 Preview（ブラウザの観察・操作 MCP）を、WPF デスクトップアプリ向けに汎用再現する MCP サーバーです。  
