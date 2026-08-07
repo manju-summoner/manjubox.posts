@@ -22,7 +22,6 @@
   - page: Irodori-TTS
   - page: ITVOICE
   - page: Kotodama
-  - page: LMROID
   - page: OpenAI_TTS
   - page: SHAREVOX
   - page: Style-Bert-VITS2
@@ -31,8 +30,6 @@
   - page: VOICEVOXを使用する
   - page: VOICEVOXNemo
   - page: VoiSonaTalk
-  - page: NijiVoice
-  - page: YomiteProgram
   - page: AmazonPolly
   - page: GoogleCloudTTS
   - page: MicrosoftAzureTTS
