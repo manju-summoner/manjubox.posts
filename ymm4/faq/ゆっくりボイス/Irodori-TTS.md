@@ -49,8 +49,10 @@ Irodori-TTSはPythonパッケージマネージャー`uv`で依存関係を管�
    ```
 1. 依存関係をインストールする
    ```
-   uv sync
+   uv sync --extra cu128
    ```
+   `--extra cu128`はGPU（CUDA）版のPyTorchを導入するためのオプションです。指定するオプションはCUDAのバージョンによって変わるため、最新の指定は[Irodori-TTSのREADME](https://github.com/Aratako/Irodori-TTS)を確認してください。
+   Irodori-TTSを更新して依存関係が変わったときも、`uv sync --extra cu128`を実行し直してください。
 
 ### 3. YMM4の設定
 1. ゆっくりMovieMaker4を起動する
@@ -109,7 +111,7 @@ Irodori-TTSで音声合成を行うには、まず参照音声（話者の声質
 手動でGradioサーバーを起動する場合のコマンド例:
 ```
 cd Irodori-TTS
-uv run python gradio_app.py --server-name 127.0.0.1 --server-port 7860
+uv run --no-sync python gradio_app.py --server-name 127.0.0.1 --server-port 7860
 ```
 
 ## トラブルシューティング
@@ -117,10 +119,17 @@ uv run python gradio_app.py --server-name 127.0.0.1 --server-port 7860
 ### サーバーに接続できない
 - `gradio_app.py`のパスが正しいか確認してください
 - `uv`のインストールが完了しているか、ターミナルを再起動したかを確認してください
+- `uv self update`で`uv`を最新版に更新してください（古い版では起動に必要なオプションが使えません）
+- Irodori-TTSを更新した場合は、`uv sync --extra cu128`（CUDA環境の場合）を実行し直してください
 - 他のアプリケーションがポート番号を使用している場合は、設定画面でポート番号を変更してください
+
+### GPUが使われない
+- 起動できている環境のPyTorchをYMM4が入れ替えることはありません
+- Irodori-TTSのディレクトリで`uv sync --extra cu128`（CUDA環境の場合）を実行し、GPU版のPyTorchに入れ替えてください
 
 ### 音声の生成に失敗する
 - NVIDIAドライバーおよびCUDAが最新か確認してください
+- GPU版のPyTorchが環境に合わない場合は、`uv sync --extra cpu`でCPU版に入れ替えてください
 - VRAM不足の場合は、他のGPUを使用するアプリを終了してください
 
 ### 初回生成時に時間がかかる
