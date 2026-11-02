@@ -1,6 +1,7 @@
 
 - key: /tools/
   index:
+  - page: reuse-win-cli
   - page: PsdFileWoBarasuYatsu
   - page: YukkuResampler
   - page: YukkuriTmBot

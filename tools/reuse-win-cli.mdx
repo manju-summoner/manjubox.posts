@@ -1,0 +1,53 @@
+---
+title: reuse-win-cli
+date: 2026-11-03
+tags: [小道具]
+description: NVIDIA の音声補正モデル RE-USE で録音のノイズを除去する Windows 用ツール
+---
+## 概要
+NVIDIA の音声補正モデル [RE-USE](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE)（NVIDIA NemotronLabs RE-USE）で、録音のノイズ・残響・こもりなどを除去し、声を聞き取りやすくするツールです。  
+YMM4 の音声エフェクト「AIノイズ除去（RE-USE）」と同じ処理を、YMM4 を使わずに音声ファイル・動画ファイルへ適用できます。
+
+- NVIDIA・AMD・Intel のどの GPU でも動作します。GPU が使えない PC でも、CPU で（時間はかかりますが）動作します。
+- exe 1 つで動作します。Python などのインストールは不要です。
+
+> **Note**
+> 非公式のツールです。NVIDIA とは無関係で、NVIDIA が公認・推奨するものでもありません。
+
+## ダウンロード
+<Download url="https://github.com/manju-summoner/reuse-win-cli/releases/latest/download/reuse-win-cli.exe">reuse-win-cli をダウンロード</Download>
+
+ダウンロードした exe の初回起動時に、「Windows によって PC が保護されました」という画面が表示されることがあります。その場合は「詳細情報」をクリックし、表示される「実行」ボタンを押してください。
+
+## 使い方
+### ファイルを D&D する場合
+1. 音声ファイルや動画ファイルを `reuse-win-cli.exe` に D&D する（複数のファイルをまとめて D&D することもできます）
+2. 元のファイルと同じフォルダに `<元のファイル名>_enhanced.wav` が出力される
+
+入力できるのは wav・mp3・m4a・aac・mp4・mov・wma・flac など、Windows がデコードできる形式です。動画は音声だけを WAV で出力するので、動画に戻す場合は動画編集ソフトで音声を差し替えてください。
+
+### コマンドラインで実行する場合
+コマンドラインで `reuse-win-cli.exe "入力ファイルのパス" [オプション]` を実行します。
+
+#### オプション一覧
+|オプション|説明|
+|:--|:--|
+|-o, --output|出力先のファイルのパス（入力が 1 つの場合のみ）|
+|-s, --strength|補正の強さ（0〜100%）。元の音声と混合する割合。既定値は 100|
+|-y, --overwrite|出力先に同名のファイルがあれば上書きする|
+|--cpu|GPU を使わずに処理する|
+|--model|exe に同梱されている重みの代わりに使用する RE-USE の重み（.safetensors）|
+|--license|ライセンスを表示する|
+
+## 動作環境
+- Windows 10 / 11（64bit）
+- Direct3D 11 に対応した GPU（NVIDIA・AMD・Intel のどれでも）。GPU が使えない場合は CPU で処理しますが、音声の長さの 20 倍以上の時間がかかることがあります。
+
+## ライセンス
+- ツールのソースコードは MIT License です。
+- exe に同梱されている RE-USE の重みは、NVIDIA の OpenMDW License Agreement, version 1.1 です。
+
+詳細は `reuse-win-cli.exe --license` か、リポジトリの LICENSE・THIRD-PARTY-NOTICES.txt をご覧ください。
+
+## ソースコード
+- [manju-summoner / reuse-win-cli](https://github.com/manju-summoner/reuse-win-cli)
