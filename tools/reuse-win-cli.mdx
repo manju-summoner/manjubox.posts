@@ -2,10 +2,10 @@
 title: reuse-win-cli
 date: 2026-11-03
 tags: [小道具]
-description: NVIDIA の音声補正モデル RE-USE で録音のノイズを除去する Windows 用ツール
+description: NVIDIA の音声強調モデル RE-USE で録音のノイズを除去する Windows 用ツール
 ---
 ## 概要
-NVIDIA の音声補正モデル [RE-USE](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE)（NVIDIA NemotronLabs RE-USE）で、録音のノイズ・残響・こもりなどを除去し、声を聞き取りやすくするツールです。  
+NVIDIA の音声強調モデル [RE-USE](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-RE-USE)（NVIDIA NemotronLabs RE-USE）で、録音のノイズ・残響・こもりなどを除去し、声を聞き取りやすくするツールです。  
 YMM4 の音声エフェクト「AIノイズ除去（RE-USE）」と同じ処理を、YMM4 を使わずに音声ファイル・動画ファイルへ適用できます。
 
 - NVIDIA・AMD・Intel のどの GPU でも動作します。GPU が使えない PC でも、CPU で（時間はかかりますが）動作します。
@@ -32,8 +32,8 @@ YMM4 の音声エフェクト「AIノイズ除去（RE-USE）」と同じ処理�
 #### オプション一覧
 |オプション|説明|
 |:--|:--|
-|-o, --output|出力先のファイルのパス（入力が 1 つの場合のみ）。`-` で標準出力|
-|-s, --strength|補正の強さ（0〜100%）。元の音声と混合する割合。既定値は 100|
+|-o, --output|出力ファイルのパス（入力が 1 つの場合のみ）。`-` で標準出力|
+|-s, --strength|処理の強さ（0〜100%）。元の音声と混合する割合。既定値は 100|
 |-y, --overwrite|出力先に同名のファイルがあれば上書きする|
 |--cpu|GPU を使わずに処理する|
 |--model|exe に同梱されている重みの代わりに使用する RE-USE の重み（.safetensors）|
@@ -54,8 +54,8 @@ YMM4 の音声エフェクト「AIノイズ除去（RE-USE）」と同じ処理�
 ffmpeg -i in.mp4 -f f32le -ac 2 -ar 48000 - | reuse-win-cli - --in-format f32le --rate 48000 --channels 2 --out-format f32le | ffmpeg -f f32le -ar 48000 -ac 2 -i - out.flac
 ```
 
-- Windows PowerShell 5.1 はパイプのバイナリを壊すので、cmd.exe か PowerShell 7.4 以降で実行してください。
-- RE-USE は前後の音声を使うモデルなので、出力は入力より約 5 秒＋推論の時間だけ遅れます。
+- Windows PowerShell 5.1 はパイプを流れるバイナリデータを破損させるので、cmd.exe か PowerShell 7.4 以降で実行してください。
+- RE-USE は前後の音声を参照するモデルなので、出力は入力より約 5 秒＋推論時間だけ遅れます。
 
 ## 動作環境
 - Windows 10 / 11（64bit）
